@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.class
+.env
+.venv
+venv/
+env/
+ENV/
+*.log
+*.pot
+*.pyc
+.Python
+
