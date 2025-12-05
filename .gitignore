@@ -11,3 +11,34 @@ ENV/
 *.pyc
 .Python
 
+# Backup files
+*.backup
+*.backup2
+*.original
+*.bak
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+_processed/
+error_log.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
