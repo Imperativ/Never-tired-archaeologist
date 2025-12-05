@@ -7,6 +7,6 @@ pytest>=8.0.0
 pytest-cov>=4.1.0
 pytest-mock>=3.12.0
 
-# Future LLM providers
-anthropic>=0.18.0
-google-generativeai>=0.3.0
+# LLM Providers (Multi-Provider Support)
+anthropic>=0.40.0
+google-genai>=1.0.0
