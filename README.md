@@ -42,7 +42,7 @@ documents_fts     → FTS5 Volltextindex
 
 ### Voraussetzungen
 
-- Python 3.10+
+- Python 3.12+
 - API-Keys für:
   - **Anthropic** (Claude)
   - **Google AI** (Gemini)
@@ -341,4 +341,4 @@ Bei Fragen oder Problemen:
 
 **Version**: 3.0.0
 **Letzte Aktualisierung**: Januar 2025
-**Python-Version**: 3.10+
+**Python-Version**: 3.12+
