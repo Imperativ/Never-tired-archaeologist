@@ -42,6 +42,7 @@ class App:
 
         # Configuration
         self.source_dir = StringVar(value="(kein Ordner gewählt)")
+        self.search_query = StringVar(value="")
         self.db_path = None
         self.enable_embeddings = IntVar(value=1)
         self.export_markdown = IntVar(value=0)  # Optional, da DB primär
@@ -91,6 +92,32 @@ class App:
         )
         self.chk_export.pack(anchor="w")
 
+        # Search
+        frame_search = Frame(self.master)
+        frame_search.pack(fill=X, padx=10, pady=(10, 0))
+
+        Label(frame_search, text="Suche in Datenbank:", font=("Arial", 9)).pack(anchor="w")
+
+        search_input_frame = Frame(frame_search)
+        search_input_frame.pack(fill=X, pady=(2, 5))
+
+        from tkinter import Entry
+        self.entry_search = Entry(
+            search_input_frame,
+            textvariable=self.search_query,
+            font=("Arial", 10)
+        )
+        self.entry_search.pack(side=LEFT, fill=X, expand=True, padx=(0, 5))
+        self.entry_search.bind('<Return>', lambda e: self.search_documents())
+
+        self.btn_search = Button(
+            search_input_frame,
+            text="🔍 Suchen",
+            command=self.search_documents,
+            state=DISABLED
+        )
+        self.btn_search.pack(side=LEFT)
+
         # Actions
         frame_actions = Frame(self.master)
         frame_actions.pack(fill=X, padx=10, pady=(10, 0))
@@ -112,7 +139,14 @@ class App:
             command=self.show_statistics,
             state=DISABLED
         )
-        self.btn_stats.pack(side=LEFT)
+        self.btn_stats.pack(side=LEFT, padx=(0, 5))
+
+        self.btn_clear = Button(
+            frame_actions,
+            text="Log leeren",
+            command=self.clear_log
+        )
+        self.btn_clear.pack(side=LEFT)
 
         # Status
         self.lbl_status = Label(self.master, text="Bereit.", fg="#080", font=("Arial", 9))
@@ -164,9 +198,76 @@ class App:
 
             self.btn_run.config(state=NORMAL)
             self.btn_stats.config(state=NORMAL)
+            self.btn_search.config(state=NORMAL)
             self.set_status(f"Ordner gewählt. Datenbank: {self.db_path.name}", ok=True)
             self.log(f"Quellordner: {src_path}", "INFO")
             self.log(f"Datenbank: {self.db_path}", "INFO")
+
+    def clear_log(self):
+        """Clear the log output"""
+        self.txt.delete(1.0, END)
+        self.log("Log geleert.", "INFO")
+
+    def search_documents(self):
+        """Search documents in database using full-text search"""
+        query = self.search_query.get().strip()
+
+        if not query:
+            self.log("Bitte geben Sie einen Suchbegriff ein.", "WARN")
+            return
+
+        if not self.db_path or not self.db_path.exists():
+            self.log("Keine Datenbank gefunden. Scannen Sie zuerst Dokumente.", "WARN")
+            return
+
+        try:
+            db = Database(self.db_path)
+            results = db.search_fulltext(query, limit=50)
+
+            if not results:
+                self.log(f"Keine Ergebnisse für '{query}'", "WARN")
+                return
+
+            self.log("=" * 60, "INFO")
+            self.log(f"SUCHERGEBNISSE für '{query}' ({len(results)} Treffer)", "SUCCESS")
+            self.log("=" * 60, "INFO")
+
+            for i, doc in enumerate(results, 1):
+                self.log(f"\n[{i}] {doc['filename']}", "SUCCESS")
+                self.log(f"    Pfad: {doc['filepath']}", "INFO")
+
+                if doc.get('topic'):
+                    self.log(f"    Topic: {doc['topic']}", "INFO")
+
+                if doc.get('language'):
+                    self.log(f"    Sprache: {doc['language']}", "INFO")
+
+                if doc.get('keywords'):
+                    keywords_str = ', '.join(doc['keywords'][:5])  # First 5 keywords
+                    if len(doc['keywords']) > 5:
+                        keywords_str += f" (+{len(doc['keywords']) - 5} weitere)"
+                    self.log(f"    Keywords: {keywords_str}", "INFO")
+
+                if doc.get('summary'):
+                    # Truncate long summaries
+                    summary = doc['summary']
+                    if len(summary) > 150:
+                        summary = summary[:147] + "..."
+                    self.log(f"    Summary: {summary}", "INFO")
+
+                if doc.get('wordcount'):
+                    self.log(f"    Wörter: {doc['wordcount']}", "INFO")
+
+            self.log("=" * 60, "INFO")
+            self.set_status(f"Suche abgeschlossen: {len(results)} Treffer für '{query}'", ok=True)
+
+        except DatabaseError as e:
+            self.log(f"Datenbankfehler: {e}", "ERROR")
+            self.set_status("Suchfehler", ok=False)
+
+        except Exception as e:
+            self.log(f"Suchfehler: {e}", "ERROR")
+            self.set_status("Suchfehler", ok=False)
 
     def show_statistics(self):
         """Show database statistics"""
