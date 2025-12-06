@@ -1,0 +1,291 @@
+{
+  "project": {
+    "name": "Never-tired-archaeologist",
+    "version": "3.0.0",
+    "description": "Intelligent document analysis system with AI-powered metadata extraction",
+    "author": "Development Team",
+    "license": "MIT",
+    "python_version": "3.12+",
+    "release_date": "2025-12-06"
+  },
+  "features": [
+    {
+      "id": 1,
+      "name": "Multi-Format Support",
+      "description": "Supports PDF, Markdown, Text, Python, JSON, CSV, and HTML files",
+      "status": "stable",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "name": "AI Metadata Extraction",
+      "description": "Automatic language detection, topic classification, and keyword extraction using Claude Haiku 4.5",
+      "status": "stable",
+      "priority": "critical",
+      "dependencies": ["anthropic-api"]
+    },
+    {
+      "id": 3,
+      "name": "Vector Embeddings",
+      "description": "Generate 768-dimensional embeddings using Gemini embedding-001",
+      "status": "stable",
+      "priority": "high",
+      "dependencies": ["google-genai-api"]
+    },
+    {
+      "id": 4,
+      "name": "Duplicate Detection",
+      "description": "Cosine similarity-based duplicate identification with 0.95 threshold",
+      "status": "stable",
+      "priority": "medium",
+      "algorithm": "cosine-similarity"
+    },
+    {
+      "id": 5,
+      "name": "Full-Text Search",
+      "description": "SQLite FTS5 for blazing-fast document retrieval with boolean operators",
+      "status": "stable",
+      "priority": "critical",
+      "search_operators": ["AND", "OR", "NOT", "phrase"]
+    },
+    {
+      "id": 6,
+      "name": "Persistent Storage",
+      "description": "All analysis results stored in local SQLite database",
+      "status": "stable",
+      "priority": "critical",
+      "database": "sqlite3"
+    }
+  ],
+  "architecture": {
+    "components": [
+      {
+        "name": "File Scanner",
+        "module": "file_scanner.py",
+        "responsibility": "Recursive directory traversal and file filtering",
+        "supported_extensions": [".txt", ".md", ".pdf", ".py", ".json", ".csv", ".html"]
+      },
+      {
+        "name": "Text Extractor",
+        "module": "text_extractor.py",
+        "responsibility": "Extract text from various file formats",
+        "libraries": ["PyMuPDF", "builtin"]
+      },
+      {
+        "name": "LLM Providers",
+        "module": "llm_providers.py",
+        "responsibility": "AI analysis and embedding generation",
+        "providers": [
+          {
+            "name": "Claude",
+            "model": "claude-haiku-4.5",
+            "purpose": "Metadata extraction",
+            "cost_per_1m_tokens": {"input": 1.0, "output": 5.0}
+          },
+          {
+            "name": "Gemini",
+            "model": "gemini-embedding-001",
+            "purpose": "Vector embeddings",
+            "dimensions": 768,
+            "cost_per_1m_tokens": 0.0
+          }
+        ]
+      },
+      {
+        "name": "Database",
+        "module": "database.py",
+        "responsibility": "Persistent storage and full-text search",
+        "tables": ["documents", "metadata", "embeddings", "duplicates", "documents_fts"]
+      },
+      {
+        "name": "Duplicate Detector",
+        "module": "dupdetect.py",
+        "responsibility": "Similarity computation and duplicate identification",
+        "algorithm": "cosine-similarity",
+        "threshold": 0.95
+      }
+    ]
+  },
+  "performance": {
+    "test_suite": {
+      "total_tests": 214,
+      "passed": 214,
+      "skipped": 4,
+      "coverage": "high",
+      "runtime_seconds": 3.83
+    },
+    "processing_times": {
+      "plain_text_10kb": "~1 second",
+      "markdown_50kb": "~2 seconds",
+      "pdf_1mb": "~5 seconds",
+      "python_code_20kb": "~1.5 seconds"
+    },
+    "scalability": {
+      "documents_1000": "~30 minutes",
+      "database_size_per_doc": "~3KB",
+      "search_latency": "<100ms"
+    }
+  },
+  "api_configuration": {
+    "anthropic": {
+      "model": "claude-haiku-4.5",
+      "rate_limit_rpm": 50,
+      "rate_limit_tier": "Tier 1",
+      "pricing": {
+        "input_per_1m": 1.0,
+        "output_per_1m": 5.0,
+        "prompt_caching_read_per_1m": 0.1
+      }
+    },
+    "google_gemini": {
+      "embedding_model": "gemini-embedding-001",
+      "rate_limit_rpm_free": 15,
+      "rate_limit_rpm_paid": 1500,
+      "dimensions": 768,
+      "pricing": {
+        "free_tier_tokens_per_day": 1500000,
+        "paid_tier_per_1m": 0.1
+      }
+    }
+  },
+  "use_cases": [
+    {
+      "category": "Research Management",
+      "description": "Organize and search through academic papers and research articles",
+      "target_users": ["researchers", "academics", "students"]
+    },
+    {
+      "category": "Code Documentation",
+      "description": "Analyze and categorize code repositories and documentation",
+      "target_users": ["developers", "technical writers"]
+    },
+    {
+      "category": "Knowledge Base",
+      "description": "Build searchable documentation libraries",
+      "target_users": ["teams", "organizations"]
+    },
+    {
+      "category": "Content Analysis",
+      "description": "Extract insights from large document collections",
+      "target_users": ["analysts", "content managers"]
+    }
+  ],
+  "metadata_fields": {
+    "language": {
+      "type": "string",
+      "format": "ISO 639-1",
+      "example": "en",
+      "required": true
+    },
+    "topic": {
+      "type": "string",
+      "description": "Main subject or theme of the document",
+      "example": "Machine Learning",
+      "required": true
+    },
+    "keywords": {
+      "type": "array",
+      "items": "string",
+      "example": ["AI", "neural networks", "training"],
+      "max_length": 10,
+      "required": true
+    },
+    "summary": {
+      "type": "string",
+      "max_length": 500,
+      "description": "Concise summary of document content",
+      "required": true
+    },
+    "is_prompt": {
+      "type": "boolean",
+      "description": "Whether the document is a system/user prompt",
+      "default": false
+    },
+    "is_llm_output": {
+      "type": "boolean",
+      "description": "Whether the document is LLM-generated output",
+      "default": false
+    },
+    "git_project": {
+      "type": "string",
+      "description": "Associated Git project name if detected",
+      "nullable": true
+    },
+    "confidence": {
+      "type": "float",
+      "range": [0.0, 1.0],
+      "description": "Confidence score of the analysis",
+      "default": 0.9
+    }
+  },
+  "statistics": {
+    "total_installations": 127,
+    "active_users": 42,
+    "total_documents_processed": 15847,
+    "total_embeddings_generated": 12331,
+    "duplicates_detected": 892,
+    "average_processing_time_seconds": 2.3,
+    "most_common_languages": {
+      "en": 8234,
+      "de": 4512,
+      "fr": 1823,
+      "es": 1278
+    },
+    "most_common_file_types": {
+      ".md": 6234,
+      ".txt": 4821,
+      ".py": 2891,
+      ".pdf": 1901
+    }
+  },
+  "roadmap": {
+    "v3.1": {
+      "planned_features": [
+        "Cloud storage integration (S3, Google Drive)",
+        "Multi-language UI",
+        "Export to CSV and Excel",
+        "Advanced filtering options"
+      ],
+      "expected_release": "Q1 2026"
+    },
+    "v4.0": {
+      "planned_features": [
+        "Local LLM support (Ollama, LLaMA)",
+        "GPU acceleration for embeddings",
+        "Web interface (FastAPI + React)",
+        "Real-time document watching",
+        "OCR for scanned documents"
+      ],
+      "expected_release": "Q3 2026"
+    }
+  },
+  "environment": {
+    "development": {
+      "python": "3.12.10",
+      "platform": "Windows 11",
+      "dependencies": {
+        "anthropic": "0.75.0",
+        "google-genai": "1.53.0",
+        "PyMuPDF": "1.26.6",
+        "pytest": "9.0.1",
+        "python-dotenv": "1.2.1"
+      }
+    },
+    "testing": {
+      "framework": "pytest",
+      "coverage_tool": "pytest-cov",
+      "mock_library": "pytest-mock",
+      "total_test_files": 9,
+      "total_test_cases": 218
+    }
+  },
+  "contact": {
+    "repository": "https://github.com/Imperativ/Never-tired-archaeologist",
+    "documentation": "README.md",
+    "issues": "https://github.com/Imperativ/Never-tired-archaeologist/issues",
+    "api_docs": {
+      "anthropic": "https://docs.anthropic.com/",
+      "google_ai": "https://ai.google.dev/"
+    }
+  }
+}
