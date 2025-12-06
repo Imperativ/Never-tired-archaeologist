@@ -14,6 +14,10 @@ import os
 import threading
 import queue
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 from tkinter import (
     Tk, Button, Label, Text, END, DISABLED, NORMAL,
     filedialog, Scrollbar, RIGHT, Y, LEFT, BOTH, X,
