@@ -47,7 +47,8 @@ class App:
         # Configuration
         self.source_dir = StringVar(value="(kein Ordner gewählt)")
         self.search_query = StringVar(value="")
-        self.db_path = None
+        # Central database in app directory (single DB for all scanned folders)
+        self.db_path = Path(__file__).parent / "archaeologist.db"
         self.enable_embeddings = IntVar(value=1)
         self.export_markdown = IntVar(value=0)  # Optional, da DB primär
 
@@ -197,15 +198,16 @@ class App:
             src_path = Path(d)
             self.source_dir.set(str(src_path))
 
-            # Set database path
-            self.db_path = src_path / "archaeologist.db"
+            # Database path is already set in __init__ (central DB)
+            # No need to change it per folder
 
             self.btn_run.config(state=NORMAL)
             self.btn_stats.config(state=NORMAL)
             self.btn_search.config(state=NORMAL)
-            self.set_status(f"Ordner gewählt. Datenbank: {self.db_path.name}", ok=True)
+            self.set_status(f"Ordner gewählt: {src_path.name}", ok=True)
             self.log(f"Quellordner: {src_path}", "INFO")
-            self.log(f"Datenbank: {self.db_path}", "INFO")
+            self.log(f"Zentrale Datenbank: {self.db_path}", "INFO")
+            self.log(f"Dokumente werden in bestehende DB eingefügt (filepath als Key)", "INFO")
 
     def clear_log(self):
         """Clear the log output"""
@@ -275,8 +277,9 @@ class App:
 
     def show_statistics(self):
         """Show database statistics"""
-        if not self.db_path or not self.db_path.exists():
-            self.log("Keine Datenbank gefunden. Scanne zuerst Dokumente.", "WARN")
+        # Database is created automatically, but might be empty
+        if not self.db_path:
+            self.log("Datenbankpfad nicht gesetzt.", "ERROR")
             return
 
         try:
@@ -284,11 +287,15 @@ class App:
             stats = db.get_statistics()
 
             self.log("=" * 60, "INFO")
-            self.log("DATENBANK-STATISTIKEN", "SUCCESS")
+            self.log("ZENTRALE DATENBANK-STATISTIKEN", "SUCCESS")
             self.log("=" * 60, "INFO")
+            self.log(f"Datenbank: {self.db_path.name}", "INFO")
             self.log(f"Dokumente gesamt: {stats['total_documents']}", "INFO")
             self.log(f"Embeddings: {stats['total_embeddings']}", "INFO")
             self.log(f"Duplikate: {stats['total_duplicates']}", "INFO")
+
+            if stats['total_documents'] == 0:
+                self.log("\n⚠ Datenbank ist leer! Scanne einen Ordner um Dokumente hinzuzufügen.", "WARN")
 
             if stats['languages']:
                 self.log("\nSprachen:", "INFO")

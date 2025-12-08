@@ -126,15 +126,17 @@ Python NOT tutorial
 
 ### Datenbank-Speicherort
 
-Die Datenbank wird automatisch im gewählten Quellordner erstellt:
+Die Datenbank wird zentral im App-Verzeichnis gespeichert:
 
 ```
-/dein/ordner/
-├── archaeologist.db   ← Hier!
-├── dokument1.pdf
-├── dokument2.txt
+Never-tired-archaeologist/
+├── archaeologist.db   ← Zentrale Datenbank!
+├── main.py
+├── demo_documents/
 └── ...
 ```
+
+**Vorteil:** Alle Dokumente aus verschiedenen Ordnern werden in **einer** Datenbank gespeichert. Die Daten bleiben erhalten, egal welcher Ordner gescannt wird.
 
 ## 📊 GUI-Übersicht
 
