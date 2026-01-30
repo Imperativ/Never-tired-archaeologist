@@ -1,0 +1,14 @@
+# LLM Provider
+anthropic>=0.39.0
+
+# Data Models & Validation
+pydantic>=2.0.0
+
+# Local Embeddings (CPU-optimized)
+sentence-transformers>=2.2.0
+
+# Numerical Operations
+numpy>=1.24.0
+
+# Environment Variables
+python-dotenv>=1.0.0
