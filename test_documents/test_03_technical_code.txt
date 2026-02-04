@@ -1,0 +1,24 @@
+# REST API Design Best Practices
+
+## 1. Use HTTP Methods Correctly
+- GET: Retrieve resources
+- POST: Create new resources
+- PUT: Update entire resources
+- PATCH: Partial updates
+- DELETE: Remove resources
+
+## 2. Resource Naming
+Use nouns, not verbs:
+- Good: /api/users, /api/orders
+- Bad: /api/getUsers, /api/createOrder
+
+## 3. Status Codes
+- 200 OK: Success
+- 201 Created: Resource created
+- 400 Bad Request: Invalid input
+- 401 Unauthorized: Authentication required
+- 404 Not Found: Resource doesn't exist
+- 500 Internal Server Error: Server error
+
+## 4. Versioning
+Include version in URL: /api/v1/users

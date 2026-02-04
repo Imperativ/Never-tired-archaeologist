@@ -1,0 +1,14 @@
+CRISPR-Cas9 Gene Editing Technology
+
+Abstract:
+CRISPR-Cas9 (Clustered Regularly Interspaced Short Palindromic Repeats) is a revolutionary gene-editing tool that allows precise modification of DNA sequences in living organisms.
+
+Mechanism:
+The Cas9 protein acts as molecular scissors, guided by RNA to specific DNA locations. Upon binding, Cas9 creates double-strand breaks, triggering cellular repair mechanisms that can be exploited to insert, delete, or modify genes.
+
+Applications:
+- Disease treatment (sickle cell anemia, cancer immunotherapy)
+- Agricultural improvements (drought-resistant crops)
+- Biotechnology (engineered microorganisms)
+
+Ethical considerations include germline editing and potential off-target effects.

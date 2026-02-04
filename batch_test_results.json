@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "filename": "test_01_short_english.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Machine Learning Overview",
+        "language": "en",
+        "topics": [
+          "Machine Learning",
+          "Artificial Intelligence",
+          "Data Science"
+        ],
+        "summary": "This document provides an overview of machine learning as a subset of artificial intelligence. It explains that machine learning enables systems to learn from data and outlines the three main approaches: supervised learning, unsupervised learning, and reinforcement learning.",
+        "keywords": [
+          "machine learning",
+          "artificial intelligence",
+          "data",
+          "supervised learning",
+          "unsupervised learning",
+          "reinforcement learning",
+          "systems"
+        ]
+      },
+      "processing_time": 3.999823570251465,
+      "content_length": 218,
+      "embedding_dim": 384,
+      "doc_id": 2
+    },
+    {
+      "filename": "test_02_long_german.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Quantencomputing: Die Zukunft der Informationsverarbeitung",
+        "language": "de",
+        "topics": [
+          "Quantencomputing",
+          "Quantenmechanik",
+          "Informationstechnologie",
+          "Algorithmen"
+        ],
+        "summary": "Das Dokument erklärt die Grundlagen des Quantencomputings, das Quantenmechanik-Prinzipien für Berechnungen nutzt, die für klassische Computer unmöglich sind. Es beschreibt wichtige Quantenalgorithmen wie Shor's und Grover's Algorithmus sowie aktuelle Entwicklungen von Unternehmen wie IBM, Google und IonQ. Die Hauptherausforderungen liegen in der Fehlerkorrektur und Skalierung auf fehlertolerante Qubits.",
+        "keywords": [
+          "Quantencomputer",
+          "Qubits",
+          "Superposition",
+          "Shor's Algorithmus",
+          "Grover's Algorithmus",
+          "NISQ-Geräte",
+          "Fehlerkorrektur",
+          "IBM",
+          "Google",
+          "IonQ",
+          "Quantenmechanik",
+          "Faktorisierung"
+        ]
+      },
+      "processing_time": 5.359772205352783,
+      "content_length": 845,
+      "embedding_dim": 384,
+      "doc_id": 3
+    },
+    {
+      "filename": "test_03_technical_code.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "REST API Design Best Practices",
+        "language": "en",
+        "topics": [
+          "REST API",
+          "Web Development",
+          "API Design",
+          "Software Architecture",
+          "HTTP Protocol"
+        ],
+        "summary": "This document outlines essential best practices for designing REST APIs, covering proper HTTP method usage, resource naming conventions, status codes, and versioning strategies. It provides clear guidelines with examples to help developers create well-structured and maintainable APIs.",
+        "keywords": [
+          "REST API",
+          "HTTP methods",
+          "GET",
+          "POST",
+          "PUT",
+          "PATCH",
+          "DELETE",
+          "resource naming",
+          "status codes",
+          "versioning",
+          "API design",
+          "web services",
+          "best practices"
+        ]
+      },
+      "processing_time": 4.398244619369507,
+      "content_length": 605,
+      "embedding_dim": 384,
+      "doc_id": 4
+    },
+    {
+      "filename": "test_04_multilingual.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Artificial Intelligence - L'Intelligence Artificielle - Künstliche Intelligenz",
+        "language": "en",
+        "topics": [
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Deep Learning",
+          "Neural Networks",
+          "Natural Language Processing"
+        ],
+        "summary": "This multilingual document introduces artificial intelligence and its transformative impact on industries through automation and data analysis. It presents key AI concepts in English, French, and German, covering machine learning, deep learning, neural networks, and natural language processing.",
+        "keywords": [
+          "Artificial Intelligence",
+          "AI",
+          "Machine Learning",
+          "Deep Learning",
+          "Neural Networks",
+          "NLP",
+          "Natural Language Processing",
+          "automation",
+          "data analysis",
+          "industries"
+        ]
+      },
+      "processing_time": 4.1611175537109375,
+      "content_length": 591,
+      "embedding_dim": 384,
+      "doc_id": 5
+    },
+    {
+      "filename": "test_05_scientific.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "CRISPR-Cas9 Gene Editing Technology",
+        "language": "en",
+        "topics": [
+          "Biotechnology",
+          "Genetic Engineering",
+          "Molecular Biology",
+          "Medical Applications",
+          "Agricultural Technology"
+        ],
+        "summary": "CRISPR-Cas9 is a revolutionary gene-editing technology that uses the Cas9 protein as molecular scissors to precisely modify DNA sequences in living organisms. The document covers its mechanism of action, applications in disease treatment and agriculture, as well as ethical considerations regarding its use.",
+        "keywords": [
+          "CRISPR-Cas9",
+          "gene editing",
+          "DNA modification",
+          "Cas9 protein",
+          "molecular scissors",
+          "double-strand breaks",
+          "cellular repair mechanisms",
+          "disease treatment",
+          "sickle cell anemia",
+          "cancer immunotherapy",
+          "drought-resistant crops",
+          "biotechnology",
+          "germline editing",
+          "off-target effects",
+          "ethical considerations"
+        ]
+      },
+      "processing_time": 4.900456666946411,
+      "content_length": 728,
+      "embedding_dim": 384,
+      "doc_id": 6
+    },
+    {
+      "filename": "test_06_short_list.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Shopping List",
+        "language": "en",
+        "topics": [
+          "shopping",
+          "groceries",
+          "household items"
+        ],
+        "summary": "A simple shopping list containing basic grocery items. The list includes dairy products, bakery items, and beverages needed for household consumption.",
+        "keywords": [
+          "milk",
+          "bread",
+          "eggs",
+          "butter",
+          "coffee",
+          "groceries",
+          "shopping"
+        ]
+      },
+      "processing_time": 3.3784070014953613,
+      "content_length": 54,
+      "embedding_dim": 384,
+      "doc_id": 7
+    },
+    {
+      "filename": "test_07_special_chars.txt",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Unicode Test Document",
+        "language": "en",
+        "topics": [
+          "Unicode",
+          "Character encoding",
+          "Special characters",
+          "Typography"
+        ],
+        "summary": "A test document demonstrating various Unicode character sets and special symbols. It includes bullet points, arrows, currency symbols, Greek letters, Chinese and Arabic text, emojis, and mathematical notation to showcase Unicode support.",
+        "keywords": [
+          "Unicode",
+          "special characters",
+          "bullet points",
+          "arrows",
+          "copyright",
+          "currency symbols",
+          "Greek letters",
+          "Chinese characters",
+          "Arabic text",
+          "emoji",
+          "mathematical notation",
+          "character encoding"
+        ]
+      },
+      "processing_time": 3.6282196044921875,
+      "content_length": 248,
+      "embedding_dim": 384,
+      "doc_id": 8
+    }
+  ],
+  "summary": {
+    "total_documents": 7,
+    "successful": 7,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_processing_time": 29.826041221618652,
+    "avg_processing_time": 4.260863031659808,
+    "avg_content_length": 469.85714285714283,
+    "errors": {}
+  }
+}

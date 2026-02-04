@@ -1,0 +1,7 @@
+Quantencomputing: Die Zukunft der Informationsverarbeitung
+
+Quantencomputer nutzen die Prinzipien der Quantenmechanik, um Berechnungen durchzuführen, die für klassische Computer praktisch unmöglich sind. Im Gegensatz zu klassischen Bits, die entweder 0 oder 1 sein können, verwenden Quantencomputer Qubits, die durch Superposition gleichzeitig in mehreren Zuständen existieren können.
+
+Die wichtigsten Quantenalgorithmen wie Shor's Algorithmus für Faktorisierung und Grover's Algorithmus für Datenbanksuche zeigen exponentielles Speedup gegenüber klassischen Ansätzen. Unternehmen wie IBM, Google und IonQ entwickeln aktuell NISQ-Geräte (Noisy Intermediate-Scale Quantum), die bereits heute für bestimmte Anwendungen eingesetzt werden können.
+
+Herausforderungen bleiben die Fehlerkorrektur und die Skalierung auf tausende fehlertolerante Qubits.

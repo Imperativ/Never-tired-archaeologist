@@ -1,0 +1,4603 @@
+{
+  "results": [
+    {
+      "filename": "1_Language_and_Expression_Prompt.md",
+      "original_path": "..\\resources2\\1_Language_and_Expression_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Language and Expression Prompt - Bilingual Communication Guidelines",
+        "language": "en",
+        "topics": [
+          "prompt engineering",
+          "bilingual communication",
+          "technical writing",
+          "German-English translation",
+          "system instructions"
+        ],
+        "summary": "Ein System-Prompt für AI-Assistenten, der bilinguale Kommunikation in Deutsch und Englisch regelt. Definiert Richtlinien für die Verwendung technischer Terminologie und strukturierte Antwortformate mit Schwerpunkt auf akademischer Präzision.",
+        "keywords": [
+          "bilingual communication",
+          "technical writing",
+          "German",
+          "English",
+          "terminology",
+          "system prompt",
+          "AI instructions",
+          "academic precision",
+          "structured responses",
+          "translation guidelines"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\prompt engineering\\1_Language_and_Expression_Prompt.md",
+      "processing_time": 5.19272518157959,
+      "action": "copy",
+      "content_length": 2630,
+      "doc_id": 9
+    },
+    {
+      "filename": "1_Sprache_und_Ausdrucks_Prompt.md",
+      "original_path": "..\\resources2\\1_Sprache_und_Ausdrucks_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Sprache und Ausdrucks Prompt",
+        "language": "de",
+        "topics": [
+          "Kommunikationsrichtlinien",
+          "Sprachverwendung",
+          "Prompt Engineering",
+          "Fachterminologie"
+        ],
+        "summary": "Dieses Dokument definiert Richtlinien für die Kommunikation, wobei Deutsch als Hauptsprache verwendet werden soll, englische Fachbegriffe jedoch bevorzugt werden, wenn sie international üblicher oder präziser sind. Die Antworten sollen fachlich präzise, sachlich und klar strukturiert sein.",
+        "keywords": [
+          "Deutsch",
+          "Englisch",
+          "Fachbegriffe",
+          "Terminologie",
+          "Kommunikation",
+          "Verständlichkeit",
+          "Präzision",
+          "Strukturierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Kommunikationsrichtlinien\\1_Sprache_und_Ausdrucks_Prompt.md",
+      "processing_time": 4.306705951690674,
+      "action": "copy",
+      "content_length": 1767,
+      "doc_id": 10
+    },
+    {
+      "filename": "2.1_Quality_and_Diligence_System_Prompt.md",
+      "original_path": "..\\resources2\\2.1_Quality_and_Diligence_System_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Quality and Diligence System Prompt",
+        "language": "en",
+        "topics": [
+          "System Prompts",
+          "Quality Assurance",
+          "AI Guidelines",
+          "Process Management",
+          "Best Practices"
+        ],
+        "summary": "A comprehensive system prompt that establishes quality standards and operational guidelines for AI responses, emphasizing thoroughness, self-verification, and excellence. The document outlines core principles including information completeness, proactive knowledge management, and structured processes to ensure accurate, complete, and actionable outputs.",
+        "keywords": [
+          "quality standards",
+          "thoroughness",
+          "self-verification",
+          "information completeness",
+          "knowledge management",
+          "operational guidelines",
+          "excellence",
+          "accuracy",
+          "reliability",
+          "best practices",
+          "process optimization",
+          "transparency",
+          "mindfulness"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\System Prompts\\2.1_Quality_and_Diligence_System_Prompt.md",
+      "processing_time": 5.073301315307617,
+      "action": "copy",
+      "content_length": 3761,
+      "doc_id": 11
+    },
+    {
+      "filename": "2.2_concise_quality_system_prompt.md",
+      "original_path": "..\\resources2\\2.2_concise_quality_system_prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Concise Quality System Prompt",
+        "language": "en",
+        "topics": [
+          "AI system prompts",
+          "quality assurance",
+          "response optimization",
+          "AI guidelines"
+        ],
+        "summary": "This document outlines a quality framework for AI responses, emphasizing precision and critical importance of solutions. It provides guidelines for self-verification, information completeness, and continuous improvement to ensure accurate, complete, and reliable outputs.",
+        "keywords": [
+          "quality framework",
+          "self-verification",
+          "information completeness",
+          "continuous improvement",
+          "system prompt",
+          "response optimization",
+          "accuracy",
+          "reliability",
+          "critical examination",
+          "real-world impact"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\AI system prompts\\2.2_concise_quality_system_prompt.md",
+      "processing_time": 4.199624300003052,
+      "action": "copy",
+      "content_length": 1930,
+      "doc_id": 12
+    },
+    {
+      "filename": "2.2_concise_system_prompt.md",
+      "original_path": "..\\resources2\\2.2_concise_system_prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Concise Quality System Prompt",
+        "language": "en",
+        "topics": [
+          "AI prompt engineering",
+          "quality assurance",
+          "system instructions",
+          "response optimization"
+        ],
+        "summary": "This document outlines a quality framework for AI systems, emphasizing the critical importance of precision and diligence in responses. It defines core directives for self-verification, information completeness, and continuous improvement to ensure accurate, complete, and reliable outputs.",
+        "keywords": [
+          "quality framework",
+          "self-verification",
+          "system prompt",
+          "information completeness",
+          "continuous improvement",
+          "accuracy",
+          "precision",
+          "real-world impact",
+          "excellence",
+          "reliability"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\AI prompt engineering\\2.2_concise_system_prompt.md",
+      "processing_time": 4.025179386138916,
+      "action": "copy",
+      "content_length": 1862,
+      "doc_id": 13
+    },
+    {
+      "filename": "28.07.2025.md",
+      "original_path": "..\\resources2\\28.07.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Plan zur Erstellung eines Prototypen für die automatisierte Jira-Epic-Erstellung mit ConfiForms",
+        "language": "de",
+        "topics": [
+          "IT-Projektmanagement",
+          "Atlassian-Integration",
+          "Low-Code-Lösungen",
+          "Workflow-Automatisierung",
+          "Prototyp-Entwicklung"
+        ],
+        "summary": "Ein detaillierter Plan zur Entwicklung eines Prototyps für die automatisierte Erstellung von Jira-Epics mittels ConfiForms in Confluence. Der Plan ist in fünf sequenzielle Teilschritte unterteilt: Grundstruktur anlegen, Formularfelder konfigurieren, Jira-Integration einrichten, Feld-Mapping implementieren und Erfolgsmeldungen konfigurieren.",
+        "keywords": [
+          "ConfiForms",
+          "Jira-Epic",
+          "Confluence",
+          "IFTTT Integration",
+          "Atlassian",
+          "Automatisierung",
+          "Prototyp",
+          "Field-Mapping",
+          "JSON-Konfiguration",
+          "Custom Fields",
+          "BWPTLS24"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\IT-Projektmanagement\\28.07.2025.md",
+      "processing_time": 7.0527284145355225,
+      "action": "copy",
+      "content_length": 13946,
+      "doc_id": 14
+    },
+    {
+      "filename": "2_confiForms_aufgabe.md",
+      "original_path": "..\\resources2\\2_confiForms_aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro Prototyp für automatisierte Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Confiforms",
+          "Jira Integration",
+          "Prototypentwicklung",
+          "Projektmanagement"
+        ],
+        "summary": "Ein Aufgabendokument zur Entwicklung eines detaillierten, umsetzbaren Plans für einen Confiforms-Makro-Prototypen, der die automatisierte Erstellung von Jira-Epics ermöglicht. Das Dokument fordert eine strukturierte Anleitung mit klar definierten Teilschritten, die ohne Administratorrechte umsetzbar sind.",
+        "keywords": [
+          "Confiforms",
+          "Jira-Epic",
+          "Prototyp",
+          "Confluence-Makro",
+          "Automatisierung",
+          "Teilschritte",
+          "Minimalfunktionalität",
+          "Custom Fields",
+          "Mapping",
+          "Storage Format Editor"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\2_confiForms_aufgabe.md",
+      "processing_time": 5.45468807220459,
+      "action": "copy",
+      "content_length": 2785,
+      "doc_id": 15
+    },
+    {
+      "filename": "2_Qualitäts-_und_Sorgfalts-Prompt.md",
+      "original_path": "..\\resources2\\2_Qualitäts-_und_Sorgfalts-Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Qualitäts- und Sorgfalts-Prompt",
+        "language": "de",
+        "topics": [
+          "Qualitätssicherung",
+          "Arbeitsrichtlinien",
+          "Prompt-Engineering",
+          "Verantwortung",
+          "Sorgfalt"
+        ],
+        "summary": "Ein Prompt, der höchste Qualitätsstandards und Sorgfalt bei der Bearbeitung von Aufgaben einfordert, da die Ergebnisse potenziell kritische Auswirkungen haben können. Betont die Wichtigkeit von selbstkritischer Überprüfung, Dokumentation des Gedankengangs und proaktivem Nachfragen bei fehlenden Informationen.",
+        "keywords": [
+          "bestmögliches Ergebnis",
+          "Qualität",
+          "Sorgfalt",
+          "selbstkritisch",
+          "Gedankengang",
+          "Fehlerquellen",
+          "Wissenslücken",
+          "Verantwortung",
+          "Präzision",
+          "Exzellenz",
+          "kritische Situationen",
+          "Menschenleben"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Qualitätssicherung\\2_Qualitäts-_und_Sorgfalts-Prompt.md",
+      "processing_time": 5.2033867835998535,
+      "action": "copy",
+      "content_length": 2188,
+      "doc_id": 16
+    },
+    {
+      "filename": "3.1_concise_analysis_prompt.md",
+      "original_path": "..\\resources2\\3.1_concise_analysis_prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Concise Analysis System Prompt",
+        "language": "en",
+        "topics": [
+          "System Prompts",
+          "Analysis Methodology",
+          "Workflow Management",
+          "Problem Solving"
+        ],
+        "summary": "This document defines a structured workflow for AI systems that emphasizes thorough analysis before solution development. It establishes a four-step process: analyze first, gather missing information, confirm understanding, and then deliver quality solutions.",
+        "keywords": [
+          "system prompt",
+          "analysis workflow",
+          "information gathering",
+          "confirmation process",
+          "solution development",
+          "Claude",
+          "AI methodology",
+          "problem solving",
+          "requirements analysis"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\System Prompts\\3.1_concise_analysis_prompt.md",
+      "processing_time": 4.174434661865234,
+      "action": "copy",
+      "content_length": 2110,
+      "doc_id": 17
+    },
+    {
+      "filename": "3.2_improved_analysis_prompt.md",
+      "original_path": "..\\resources2\\3.2_improved_analysis_prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Systematic Analysis System Prompt",
+        "language": "en",
+        "topics": [
+          "system prompts",
+          "analytical methodology",
+          "workflow optimization",
+          "AI assistant guidelines",
+          "structured problem-solving"
+        ],
+        "summary": "This document defines a comprehensive 5-phase analytical workflow for AI assistants to follow before providing solutions. It emphasizes the importance of thorough task analysis, information gathering, and user confirmation before proceeding to solution development, ensuring optimal outcomes through structured approaches rather than rushing to immediate solutions.",
+        "keywords": [
+          "systematic analysis",
+          "workflow phases",
+          "task analysis",
+          "information assessment",
+          "confirmation gate",
+          "solution development",
+          "quality checkpoints",
+          "communication protocol",
+          "structured approach",
+          "AI methodology"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\system prompts\\3.2_improved_analysis_prompt.md",
+      "processing_time": 4.5857508182525635,
+      "action": "copy",
+      "content_length": 5093,
+      "doc_id": 18
+    },
+    {
+      "filename": "3_Einschränkungen_und_Vorgaben.md",
+      "original_path": "..\\resources2\\3_Einschränkungen_und_Vorgaben.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Einschränkungen und Vorgaben für Confluence/Jira Prototyp",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Prototyp-Entwicklung",
+          "Technische Vorgaben",
+          "System-Integration"
+        ],
+        "summary": "Das Dokument definiert strikt einzuhaltende technische, funktionale und rechtliche Einschränkungen für einen Prototyp zur Integration von Confluence und Jira. Es spezifiziert die verfügbaren Berechtigungen, erlaubte Funktionalitäten und konkrete Anforderungen für die Epic-Erstellung in einem bestimmten Jira-Projekt.",
+        "keywords": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Epic",
+          "PWBDLS24",
+          "Storage Format Editor",
+          "Adminrechte",
+          "Prototyp",
+          "Makros",
+          "JSON Mapping",
+          "Standardelemente",
+          "Integration"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\3_Einschränkungen_und_Vorgaben.md",
+      "processing_time": 5.86699652671814,
+      "action": "copy",
+      "content_length": 2867,
+      "doc_id": 19
+    },
+    {
+      "filename": "4_Analyse_Prompt.md",
+      "original_path": "..\\resources2\\4_Analyse_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Analyse Prompt - Strukturierter Arbeitsablauf für Aufgabenbearbeitung",
+        "language": "de",
+        "topics": [
+          "Prompt Engineering",
+          "Arbeitsablauf",
+          "Aufgabenanalyse",
+          "Problemlösung"
+        ],
+        "summary": "Ein strukturierter Ansatz für die Bearbeitung von Aufgaben, der vor der Lösung eine sorgfältige Analyse, Identifikation von Informationslücken und gezielte Nachfragen beim Benutzer vorsieht. Das Dokument beschreibt einen mehrstufigen Prozess, um sicherzustellen, dass alle relevanten Informationen vorliegen, bevor mit der konkreten Ausarbeitung einer Lösung begonnen wird.",
+        "keywords": [
+          "Aufgabenanalyse",
+          "Informationslücken",
+          "Präzisierungen",
+          "Benutzerabfrage",
+          "Lösungsausarbeitung",
+          "Arbeitsablauf",
+          "Problemlösungsmethodik",
+          "Vollständigkeit"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Prompt Engineering\\4_Analyse_Prompt.md",
+      "processing_time": 5.713560581207275,
+      "action": "copy",
+      "content_length": 1617,
+      "doc_id": 20
+    },
+    {
+      "filename": "4_Anaylse_Prompt.md",
+      "original_path": "..\\resources2\\4_Anaylse_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Analyse Prompt - Strukturierte Aufgabenbearbeitung",
+        "language": "de",
+        "topics": [
+          "Prompt Engineering",
+          "Aufgabenanalyse",
+          "Arbeitsablauf",
+          "Methodologie"
+        ],
+        "summary": "Ein Leitfaden für die strukturierte Bearbeitung von Aufgaben, der einen systematischen Ablauf von Analyse über Informationsbeschaffung bis zur Lösungsentwicklung vorschreibt. Das Dokument betont die Wichtigkeit der vollständigen Informationssammlung vor der eigentlichen Lösungsausarbeitung.",
+        "keywords": [
+          "Aufgabenanalyse",
+          "Informationslücken",
+          "Präzisierung",
+          "Benutzerrückfrage",
+          "Lösungsausarbeitung",
+          "Arbeitsablauf",
+          "Prompt",
+          "Methodologie"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Prompt Engineering\\4_Anaylse_Prompt.md",
+      "processing_time": 5.75065541267395,
+      "action": "copy",
+      "content_length": 1584,
+      "doc_id": 21
+    },
+    {
+      "filename": "5_Aufgabe_Kompendium.md",
+      "original_path": "..\\resources2\\5_Aufgabe_Kompendium.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Oracle DBA Kompendium - Lektoratsauftrag für Trainingshandbuch",
+        "language": "de",
+        "topics": [
+          "Oracle Database Administration",
+          "Lektorat",
+          "Pädagogische Literatur",
+          "Trainingshandbuch",
+          "Dokumentenüberarbeitung"
+        ],
+        "summary": "Auftrag an einen erfahrenen Lektor zur Überarbeitung eines 8-wöchigen Oracle DBA Trainingshandbuchs. Das Dokument identifiziert spezifische Probleme wie zu kurze Erklärungen, fehlende Begriffserklärungen, fehlende Bildunterschriften und formatierungstechnische Mängel, die eine druckfreundliche Aufbereitung verhindern.",
+        "keywords": [
+          "Oracle DBA",
+          "Lektorat",
+          "Trainingshandbuch",
+          "SQL-Plus",
+          "Dual-Tabelle",
+          "Formatierung",
+          "Bildunterschriften",
+          "Pädagogische Literatur",
+          "Druckoptimierung",
+          "Inhaltsverzeichnis"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Oracle Database Administration\\5_Aufgabe_Kompendium.md",
+      "processing_time": 6.252268314361572,
+      "action": "copy",
+      "content_length": 3151,
+      "doc_id": 22
+    },
+    {
+      "filename": "AI_Antwort_1.md",
+      "original_path": "..\\resources2\\AI_Antwort_1.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Jira Integration: Automatische Epic- und Issue-Erstellung in Confluence",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Workflow-Automatisierung",
+          "Integration",
+          "Projektmanagement"
+        ],
+        "summary": "Detaillierte Anleitung zur Erstellung eines Confluence-Prozesses mit ConfiForms, der automatisch Jira-Epics und verknüpfte Issues mit spezifischen Checklisten erstellt. Der Leitfaden beschreibt die schrittweise Umsetzung ohne Adminrechte unter Verwendung von IFTTT-Regeln für die Jira-Integration.",
+        "keywords": [
+          "ConfiForms",
+          "Confluence",
+          "Jira",
+          "Epic",
+          "Issues",
+          "IFTTT",
+          "Application Link",
+          "Checklisten",
+          "Formular-Integration",
+          "Automatisierung",
+          "Workflow",
+          "Unteraufgaben",
+          "Epic Link",
+          "Projektmanagement"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\AI_Antwort_1.md",
+      "processing_time": 6.316362380981445,
+      "action": "copy",
+      "content_length": 11710,
+      "doc_id": 23
+    },
+    {
+      "filename": "AI_DEV_CLAUDE.md",
+      "original_path": "..\\resources2\\AI_DEV_CLAUDE.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "CLAUDE KONFIGURATION - IMPERATIV - System Prompt für AI-Entwicklung",
+        "language": "de",
+        "topics": [
+          "AI-Entwicklung",
+          "System Prompts",
+          "Claude Konfiguration",
+          "Entwicklungsworkflow",
+          "Qualitätssicherung",
+          "Debugging",
+          "Sicherheit"
+        ],
+        "summary": "Eine umfassende Konfigurationsdatei für Claude AI mit verbindlichen Anweisungen zur Rolle als LLM-Entwickler bei Anthropic. Das Dokument definiert Persönlichkeit, Kommunikationsstil (bilingual Deutsch/Englisch), Qualitätsstandards, Workflow-Automatisierung und kritische Sicherheitsrichtlinien. Es enthält systematische Arbeitsabläufe für Code-Änderungen, Feature-Entwicklung und Debugging sowie strikte Vorgaben zur Datenintegrität und Qualitätssicherung.",
+        "keywords": [
+          "Claude",
+          "System Prompt",
+          "LLM-Entwicklung",
+          "Anthropic",
+          "Qualitätssicherung",
+          "Workflow-Automation",
+          "Bilinguale Kommunikation",
+          "Git",
+          "Debugging",
+          "Code-Review",
+          "Sicherheitsrichtlinien",
+          "Datenintegrität",
+          "Session-Management",
+          "Entwicklungsumgebung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\AI-Entwicklung\\AI_DEV_CLAUDE.md",
+      "processing_time": 7.527244329452515,
+      "action": "copy",
+      "content_length": 10832,
+      "doc_id": 24
+    },
+    {
+      "filename": "Analyse_der_alternativen_Confiforms-Lösung.md",
+      "original_path": "..\\resources2\\Analyse_der_alternativen_Confiforms-Lösung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Analyse der alternativen Confiforms-Lösung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence Automation",
+          "Workflow-Analyse",
+          "IFTTT-Aktionen"
+        ],
+        "summary": "Detaillierte Analyse einer erweiterten ConfiForms-Implementation, die automatisch Jira Issues erstellt, den Jira Key zurück speichert und eine Confluence-Seite mit Jira-Makro generiert. Die Lösung bietet eine vollständige Workflow-Automatisierung von der Issue-Erstellung bis zur Dokumentation mit bidirektionaler Datenverknüpfung.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "IFTTT",
+          "Automation",
+          "Issue Creation",
+          "Workflow",
+          "Makro",
+          "JQL",
+          "Bidirektionale Verknüpfung",
+          "Page Creation",
+          "Field Definition Rules",
+          "JSON-Payload"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Analyse_der_alternativen_Confiforms-Lösung.md",
+      "processing_time": 5.60092568397522,
+      "action": "copy",
+      "content_length": 6646,
+      "doc_id": 25
+    },
+    {
+      "filename": "Analyse_Prompt.md",
+      "original_path": "..\\resources2\\Analyse_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Analyse Prompt - Strukturierter Aufgabenbearbeitungsablauf",
+        "language": "de",
+        "topics": [
+          "Aufgabenanalyse",
+          "Arbeitsablauf",
+          "Qualitätssicherung",
+          "Strukturierte Problemlösung"
+        ],
+        "summary": "Das Dokument beschreibt einen strukturierten Ablauf zur sorgfältigen Aufgabenbearbeitung, der vor der eigentlichen Lösungserstellung eine gründliche Analyse, Identifikation von Informationslücken und gezielte Nachfragen beim Benutzer vorsieht. Ziel ist es, vollständige Informationen zu sammeln bevor eine fundierte Lösung präsentiert wird.",
+        "keywords": [
+          "Aufgabenstellung",
+          "Analyse",
+          "Informationslücken",
+          "Präzisierung",
+          "Benutzeranfrage",
+          "Lösungsdarstellung",
+          "Qualitätssicherung",
+          "Strukturierter Ablauf"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Aufgabenanalyse\\Analyse_Prompt.md",
+      "processing_time": 5.767948627471924,
+      "action": "copy",
+      "content_length": 1597,
+      "doc_id": 26
+    },
+    {
+      "filename": "Anforderungskategorien.md",
+      "original_path": "..\\resources2\\Anforderungskategorien.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Anforderungskategorien",
+        "language": "de",
+        "topics": [
+          "Requirements Engineering",
+          "Software Development",
+          "System Analysis"
+        ],
+        "summary": "Dokument definiert vier Hauptkategorien von Anforderungen: Fachliche Anforderungen, technische Anforderungen, Betriebliche Anforderungen und Qualitätsanforderungen. Die Kategorien sind in einem XML-ähnlichen Format mit numerischen Kennungen (10151-10154) strukturiert.",
+        "keywords": [
+          "Anforderungskategorien",
+          "Fachliche Anforderung",
+          "technische Anforderung",
+          "Betriebliche Anforderung",
+          "Qualitätsanforderung",
+          "Requirements",
+          "XML",
+          "Kategorisierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Requirements Engineering\\Anforderungskategorien.md",
+      "processing_time": 4.281797885894775,
+      "action": "copy",
+      "content_length": 1180,
+      "doc_id": 27
+    },
+    {
+      "filename": "arbeitszeit-rechner.md",
+      "original_path": "..\\resources2\\arbeitszeit-rechner.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "PACEMON - Arbeitszeit-Rechner",
+        "language": "de",
+        "topics": [
+          "Zeiterfassung",
+          "Arbeitszeit-Management",
+          "Web-Anwendung",
+          "Pausenzeit-Berechnung"
+        ],
+        "summary": "Eine Web-Anwendung zur Berechnung von Arbeitszeiten mit dem Namen PACEMON. Die Anwendung berechnet automatisch Pausenzeiten, Feierabendzeit und Überstunden basierend auf Arbeitsbeginn und Tagessollzeit von 7h 54min. Sie bietet eine visuelle Timeline-Darstellung und berücksichtigt gesetzliche Pausenregelungen.",
+        "keywords": [
+          "Arbeitszeit",
+          "Pausenberechnung",
+          "Tagessollzeit",
+          "Feierabendzeit",
+          "10-Stunden-Regel",
+          "Zeiterfassung",
+          "PACEMON",
+          "HTML",
+          "JavaScript",
+          "Timeline-Visualisierung",
+          "Überstunden",
+          "Anwesenheit"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Zeiterfassung\\arbeitszeit-rechner.md",
+      "processing_time": 6.5213940143585205,
+      "action": "copy",
+      "content_length": 23862,
+      "doc_id": 28
+    },
+    {
+      "filename": "archeaologist_aufgaben_prompt_v1.md",
+      "original_path": "..\\resources2\\archeaologist_aufgaben_prompt_v1.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Dokumenten-Archivierungsapp für AI-Projekte - Konzept und Anforderungen",
+        "language": "de",
+        "topics": [
+          "Dokumentenmanagement",
+          "AI-Projekte",
+          "Automatisierung",
+          "Metadatenextraktion",
+          "Ordnerorganisation"
+        ],
+        "summary": "Konzept für eine App zur automatischen Analyse und Organisation von 50+ unsortierten Dokumenten aus AI-Projekten. Die App soll mithilfe der Google Document AI API Metadaten extrahieren und eine strukturierte Ordnerorganisation erstellen.",
+        "keywords": [
+          "Dokumentenarchivierung",
+          "Google Document AI API",
+          "Metadatenstruktur",
+          "Ordnerorganisation",
+          "AI-Projekte",
+          "Automatisierung",
+          "Dateiformate",
+          "Spracherfassung",
+          "Inhaltsanalyse",
+          "Confidence Score"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Dokumentenmanagement\\archeaologist_aufgaben_prompt_v1.md",
+      "processing_time": 4.980686187744141,
+      "action": "copy",
+      "content_length": 2736,
+      "doc_id": 29
+    },
+    {
+      "filename": "aufgabe.md",
+      "original_path": "..\\resources2\\aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Makro zur automatisierten Jira-Epic-Erstellung - Aufgabenstellung und Prompt-Optimierung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence Makros",
+          "Epic-Erstellung",
+          "Low-Code/No-Code",
+          "Atlassian",
+          "Projektmanagement"
+        ],
+        "summary": "Eine detaillierte Aufgabenstellung zur Entwicklung eines ConfiForms-Makros in Confluence, das automatisch Jira-Epics im Projekt BWPTLS24 erstellt. Das Dokument enthält technische Spezifikationen, Versionsinformationen (Confluence 9.2.4, Jira 10.3.6, ConfiForms 3.17.7) und einen optimierten Prompt für ein Reasoning-Modell mit klaren Einschränkungen und Anforderungen für einen stabilen Prototypen.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic-Erstellung",
+          "Makro",
+          "BWPTLS24",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "Atlassian",
+          "Prototyp",
+          "JSON Mapping",
+          "Vertuna",
+          "IT-Projektmanagement",
+          "Low-Code",
+          "Storage Format Editor"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\aufgabe.md",
+      "processing_time": 7.435429096221924,
+      "action": "copy",
+      "content_length": 8015,
+      "doc_id": 30
+    },
+    {
+      "filename": "aufgabe_22.07.2025.md",
+      "original_path": "..\\resources2\\aufgabe_22.07.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "Confiforms",
+          "Makro-Entwicklung",
+          "API-Integration",
+          "Workflow-Automatisierung"
+        ],
+        "summary": "Technische Spezifikation für die Entwicklung eines Confiforms-Makros in Confluence, das die automatisierte Erstellung von Epic-Tickets in Jira ermöglicht. Das Makro soll über ein interaktives Formular verfügen, das nach Benutzereingaben ein Epic im Projekt BWPTLS24 erstellt und eine Übersicht der zuletzt erstellten Tickets anzeigt.",
+        "keywords": [
+          "Confiforms",
+          "Confluence",
+          "Jira",
+          "Epic-Erstellung",
+          "API-Token",
+          "Basic Auth",
+          "BWPTLS24",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "Formularvalidierung",
+          "Data Center",
+          "JSON Mapping",
+          "Workflow-Automatisierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\aufgabe_22.07.2025.md",
+      "processing_time": 6.38764214515686,
+      "action": "copy",
+      "content_length": 6999,
+      "doc_id": 31
+    },
+    {
+      "filename": "aufgabe_29.07.2025.md",
+      "original_path": "..\\resources2\\aufgabe_29.07.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Makro-Entwicklung",
+          "Epic-Erstellung",
+          "API-Integration"
+        ],
+        "summary": "Aufgabenstellung zur Entwicklung eines Confiforms-Makros für Confluence, das über einen Button automatisch Epic-Tickets in Jira erstellt. Das Makro soll Formularfelder für die Epic-Erstellung bereitstellen, Validierung durchführen und nach erfolgreicher Erstellung eine Übersicht der letzten 5 Tickets anzeigen.",
+        "keywords": [
+          "Confiforms",
+          "Jira API",
+          "Epic-Ticket",
+          "BWPTLS24",
+          "Confluence Makro",
+          "Basic Auth",
+          "API Token",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "Formularvalidierung",
+          "Mehrfachauswahl",
+          "Dropdown-Menü",
+          "Fehlerbehandlung",
+          "Benutzerfreundlichkeit"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\aufgabe_29.07.2025.md",
+      "processing_time": 5.985449314117432,
+      "action": "copy",
+      "content_length": 7400,
+      "doc_id": 32
+    },
+    {
+      "filename": "Aufgabe_ChatGPT5.md",
+      "original_path": "..\\resources2\\Aufgabe_ChatGPT5.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Automation",
+          "Epic-Erstellung",
+          "Makro-Entwicklung"
+        ],
+        "summary": "Aufgabenstellung zur Entwicklung eines Confiforms-Makros in Confluence, das Nutzern ermöglicht, über ein Formular automatisch Epic-Tickets im Jira-Projekt BWPTLS24 zu erstellen. Das Makro soll benutzerfreundlich sein, Eingabevalidierung durchführen und nach erfolgreicher Erstellung eine tabellarische Darstellung der letzten 5 Tickets anzeigen.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "Makro",
+          "IFTTT",
+          "Formularvalidierung",
+          "Ticketerstellung",
+          "Data Center",
+          "BWPTLS24",
+          "Vertuna",
+          "Benutzerfreundlichkeit",
+          "Fehlertoleranz"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\Aufgabe_ChatGPT5.md",
+      "processing_time": 5.856387376785278,
+      "action": "copy",
+      "content_length": 2731,
+      "doc_id": 33
+    },
+    {
+      "filename": "Aufgabe_Kompendium.md",
+      "original_path": "..\\resources2\\Aufgabe_Kompendium.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Aufgabe Kompendium - Überarbeitung Oracle DBA Trainingshandbuch",
+        "language": "de",
+        "topics": [
+          "Oracle DBA Training",
+          "Pädagogische Literatur",
+          "Lektorat",
+          "Dokumentenüberarbeitung",
+          "Trainingshandbuch",
+          "SQL-Plus",
+          "Datenbankadministration"
+        ],
+        "summary": "Ein Auftrag zur Überarbeitung eines 8-wöchigen Oracle DBA Trainingshandbuchs durch einen erfahrenen Lektor für pädagogische Literatur. Das Dokument identifiziert verschiedene Probleme wie zu kurze Erklärungstexte, fehlende Begriffserklärungen, fehlende Bildunterschriften und suboptimale Formatierung für den Druck.",
+        "keywords": [
+          "Oracle DBA",
+          "Trainingshandbuch",
+          "Lektor",
+          "pädagogische Literatur",
+          "Formatierung",
+          "SQL-Plus",
+          "dual-Tabelle",
+          "Bildunterschriften",
+          "Hausaufgaben",
+          "Inhaltsverzeichnis",
+          "ausdruckfreundlich"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Oracle DBA Training\\Aufgabe_Kompendium.md",
+      "processing_time": 5.6519691944122314,
+      "action": "copy",
+      "content_length": 3156,
+      "doc_id": 34
+    },
+    {
+      "filename": "Aufgabenstellung.md",
+      "original_path": "..\\resources2\\Aufgabenstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms Jira Integration - Epic and Sub-task Creation Form",
+        "language": "en",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence",
+          "Form Development",
+          "Project Management",
+          "Task Management"
+        ],
+        "summary": "Technical specification for creating a Confluence form using ConfiForms that automatically generates Jira Epics with four optional sub-tasks. The document outlines requirements for form fields, checkbox-based issue creation, checklist templates, and IFTTT integration rules for seamless Jira workflow automation.",
+        "keywords": [
+          "ConfiForms",
+          "Jira Epic",
+          "sub-tasks",
+          "IFTTT Integration Rules",
+          "Confluence form",
+          "checklist templates",
+          "Jira API",
+          "field mapping",
+          "graphical elements",
+          "dropdown",
+          "user picker",
+          "date field",
+          "checkboxes",
+          "form submission",
+          "tabular confirmation",
+          "Report Macro"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\ConfiForms\\Aufgabenstellung.md",
+      "processing_time": 5.839848518371582,
+      "action": "copy",
+      "content_length": 2757,
+      "doc_id": 35
+    },
+    {
+      "filename": "basic_system-prompt_with_role_primer.md",
+      "original_path": "..\\resources2\\basic_system-prompt_with_role_primer.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Basic System Prompt with Role Primer for Atlassian Solutions",
+        "language": "en",
+        "topics": [
+          "System Prompts",
+          "AI Instructions",
+          "Atlassian Solutions",
+          "JIRA",
+          "Confluence",
+          "Low-Code Development",
+          "Enterprise Software"
+        ],
+        "summary": "A structured system prompt template designed for AI assistants specializing in Atlassian solutions (JIRA and Confluence). The prompt includes role definition, chain-of-thought methodology, implementation guidelines, and constraints for providing low-code enterprise solutions using native Atlassian capabilities and plugins like ConfiForms.",
+        "keywords": [
+          "system prompt",
+          "role primer",
+          "Atlassian",
+          "JIRA",
+          "Confluence",
+          "automation",
+          "low-code",
+          "enterprise",
+          "chain of thoughts",
+          "ConfiForms",
+          "implementation strategy",
+          "best practices",
+          "Fortune 500"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\System Prompts\\basic_system-prompt_with_role_primer.md",
+      "processing_time": 5.86894154548645,
+      "action": "copy",
+      "content_length": 4329,
+      "doc_id": 36
+    },
+    {
+      "filename": "Benutzeranleitung_ConfiForms_Epic-Erstellung.md",
+      "original_path": "..\\resources2\\Benutzeranleitung_ConfiForms_Epic-Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Benutzeranleitung: ConfiForms Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Benutzeranleitung",
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic-Erstellung",
+          "Projektmanagement"
+        ],
+        "summary": "Eine detaillierte Anleitung zur Erstellung von Epic-Tickets im Jira-Projekt BWPTLS24 über das ConfiForms-Makro in Confluence. Das Dokument erklärt die Voraussetzungen, das Ausfüllen des Formulars mit Pflicht- und optionalen Feldern, die Epic-Erstellung sowie Problemlösungen und Support-Informationen.",
+        "keywords": [
+          "ConfiForms",
+          "Epic-Erstellung",
+          "Jira",
+          "Confluence",
+          "BWPTLS24",
+          "Formular",
+          "Pflichtfelder",
+          "Zusammenfassung",
+          "Anforderungskategorie",
+          "Priorität",
+          "Komponenten",
+          "Bearbeiter",
+          "Application Link",
+          "Übersichtstabelle",
+          "Troubleshooting",
+          "Support"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Benutzeranleitung\\Benutzeranleitung_ConfiForms_Epic-Erstellung.md",
+      "processing_time": 5.1384642124176025,
+      "action": "copy",
+      "content_length": 5031,
+      "doc_id": 37
+    },
+    {
+      "filename": "Bewertung_und_Optimierungsempfehlungen.md",
+      "original_path": "..\\resources2\\Bewertung_und_Optimierungsempfehlungen.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Bewertung und Optimierungsempfehlungen für Confiforms-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "ConfiForms-Optimierung",
+          "Jira-Integration",
+          "Projektmanagement-Automatisierung",
+          "Workflow-Verbesserung",
+          "Strategische Systemanalyse"
+        ],
+        "summary": "Strategische Analyse und Bewertung einer alternativen ConfiForms-Lösung zur Epic-Erstellung in Jira. Das Dokument identifiziert Optimierungspotenziale für bestehende Systeme und entwickelt einen strukturierten Implementierungsplan mit kurzfristigen Verbesserungen und langfristigen Erweiterungsmöglichkeiten zur Evolution in eine umfassende Projektmanagement-Plattform.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Epic-Erstellung",
+          "IFTTT-Aktionen",
+          "Bidirektionale Datenverknüpfung",
+          "Workflow-Automatisierung",
+          "Template-System",
+          "Dokumentationsgenerierung",
+          "Projektmanagement-Plattform",
+          "Performance-Optimierung",
+          "Enterprise-Skalierung",
+          "Confluence-Integration",
+          "Prozessautomatisierung",
+          "Risikobewertung",
+          "Implementierungsroadmap"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms-Optimierung\\Bewertung_und_Optimierungsempfehlungen.md",
+      "processing_time": 9.43444013595581,
+      "action": "copy",
+      "content_length": 22768,
+      "doc_id": 38
+    },
+    {
+      "filename": "chat-insights.md",
+      "original_path": "..\\resources2\\chat-insights.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Chat Insights - Claude Code MCP-Konfiguration Session",
+        "language": "de",
+        "topics": [
+          "Claude Code",
+          "MCP-Server",
+          "Konfiguration",
+          "Entwicklungstools",
+          "Code-Qualität",
+          "Systemintegration"
+        ],
+        "summary": "Dokumentation einer Chat-Session vom 17.09.2025 über die Konfiguration von MCP-Servern in Claude Code. Enthält 11 strukturierte Insights über die Unterschiede zwischen Claude Code CLI und Claude Desktop, die korrekte Aktivierung von MCP-Servern über 'claude mcp add', und Best Practices für einen 'Analyze-First'-Ansatz in der Entwicklung.",
+        "keywords": [
+          "MCP-Server",
+          "Claude Code",
+          "claude mcp add",
+          "Playwright",
+          "Firefox",
+          "TodoWrite-Tool",
+          "Analyze-First",
+          "Community-Recherche",
+          "Konfiguration",
+          "CLI vs Desktop",
+          "Code-Qualität",
+          "filesystem-Server"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Claude Code\\chat-insights.md",
+      "processing_time": 6.148756265640259,
+      "action": "copy",
+      "content_length": 4931,
+      "doc_id": 39
+    },
+    {
+      "filename": "checkliste_dev.md",
+      "original_path": "..\\resources2\\checkliste_dev.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste für Entwicklungs- und Installationsprozesse",
+        "language": "de",
+        "topics": [
+          "Software-Entwicklung",
+          "Installation",
+          "Projektmanagement",
+          "Qualitätssicherung",
+          "IT-Administration"
+        ],
+        "summary": "Eine strukturierte Checkliste für den vollständigen Entwicklungs- und Installationsprozess von Software-Patches, die verschiedene Phasen von der Ticketerstellung bis zur finalen Abnahme abdeckt. Der Prozess umfasst Koordination zwischen Produktverantwortung, Administratoren und Testkoordination mit klaren Zuständigkeiten und Prüfpunkten.",
+        "keywords": [
+          "Checkliste",
+          "DevNet",
+          "Patch",
+          "Ticket",
+          "Installation",
+          "Confluence",
+          "Produktverantwortung",
+          "Administrator",
+          "Testkoordination",
+          "Abnahme",
+          "Zabbix",
+          "Wartungsfenster",
+          "Schnittstellen",
+          "Installationsübersicht"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Entwicklung\\checkliste_dev.md",
+      "processing_time": 5.409437894821167,
+      "action": "copy",
+      "content_length": 3066,
+      "doc_id": 40
+    },
+    {
+      "filename": "Checkliste_OS.md",
+      "original_path": "..\\resources2\\Checkliste_OS.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste OS - Installationsprozess und Change Management",
+        "language": "de",
+        "topics": [
+          "Change Management",
+          "Softwareinstallation",
+          "IT-Administration",
+          "Ticketbearbeitung",
+          "Produktverantwortung"
+        ],
+        "summary": "Eine detaillierte Checkliste für Softwareinstallationen in IT-Umgebungen, die den gesamten Prozess von der Vorplanung über Change Management bis zur Abnahme strukturiert. Das Dokument definiert Verantwortlichkeiten zwischen Produktverantwortung und Administration und stellt sicher, dass alle erforderlichen Schritte systematisch abgearbeitet werden.",
+        "keywords": [
+          "Checkliste",
+          "Installation",
+          "Change Management",
+          "Produktverantwortung",
+          "Administration",
+          "Ticket",
+          "Datenbankadministrator",
+          "Applikationsadministrator",
+          "Schnittstellen",
+          "Windows",
+          "Abnahme",
+          "POLAS-Umgebung",
+          "USU-Aktivität",
+          "Zabbix-Wartungsfenster",
+          "Software-Versionen"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Change Management\\Checkliste_OS.md",
+      "processing_time": 7.214289426803589,
+      "action": "copy",
+      "content_length": 5416,
+      "doc_id": 41
+    },
+    {
+      "filename": "checkliste_prod.md",
+      "original_path": "..\\resources2\\checkliste_prod.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste für Produktionsinstallationen",
+        "language": "de",
+        "topics": [
+          "IT-Administration",
+          "Change Management",
+          "Produktinstallation",
+          "Workflow-Management",
+          "Qualitätssicherung"
+        ],
+        "summary": "Eine strukturierte Checkliste für IT-Produktinstallationen in Produktionsumgebungen, die den gesamten Prozess von der Vorbereitung über das Change Management bis zur Abnahme abdeckt. Das Dokument definiert klare Verantwortlichkeiten zwischen Produktverantwortung und Administration und umfasst alle notwendigen Schritte zur sicheren Durchführung von Installationen.",
+        "keywords": [
+          "Checkliste",
+          "Produktinstallation",
+          "Change Management",
+          "Produktverantwortung",
+          "Administration",
+          "Datenbankadministrator",
+          "Applikationsadministrator",
+          "Changeantrag",
+          "Abnahme",
+          "POLAS",
+          "P-Online",
+          "ITK-KM",
+          "Windows Schnittstellen",
+          "USU-Aktivität",
+          "Installationsvoraussetzungen"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\IT-Administration\\checkliste_prod.md",
+      "processing_time": 5.969667673110962,
+      "action": "copy",
+      "content_length": 3897,
+      "doc_id": 42
+    },
+    {
+      "filename": "checkliste_produkt.md",
+      "original_path": "..\\resources2\\checkliste_produkt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste Produkt",
+        "language": "de",
+        "topics": [
+          "Produktentwicklung",
+          "Qualitätssicherung",
+          "Projektmanagement",
+          "Checkliste"
+        ],
+        "summary": "Eine Checkliste für die Produktentwicklung mit wichtigen Punkten wie Dokumentation von Annahmen und Entscheidungen, Risikobewertung, Testbarkeit und Grobschätzung. Die Liste enthält strukturierte Aufgaben, die vor Projektfortschritt abgearbeitet werden müssen.",
+        "keywords": [
+          "Checkliste",
+          "Annahmen",
+          "Entscheidungen",
+          "Risiken",
+          "Abhängigkeiten",
+          "nicht-funktionale Anforderungen",
+          "Testbarkeit",
+          "Grobschätzung",
+          "Produktentwicklung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Produktentwicklung\\checkliste_produkt.md",
+      "processing_time": 4.642289876937866,
+      "action": "copy",
+      "content_length": 1118,
+      "doc_id": 43
+    },
+    {
+      "filename": "checkliste_QS.md",
+      "original_path": "..\\resources2\\checkliste_QS.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste Qualitätssicherung - Installationsprozess",
+        "language": "de",
+        "topics": [
+          "Qualitätssicherung",
+          "Installationsprozess",
+          "Change Management",
+          "IT-Administration",
+          "Produktverantwortung"
+        ],
+        "summary": "Eine strukturierte Checkliste für IT-Installationsprozesse, die verschiedene Phasen von der Vorbereitung über Change Management bis zur Abnahme abdeckt. Das Dokument definiert Verantwortlichkeiten zwischen Produktverantwortung und verschiedenen Administratoren und stellt sicher, dass alle notwendigen Schritte für eine erfolgreiche Installation befolgt werden.",
+        "keywords": [
+          "Checkliste",
+          "Installation",
+          "Produktverantwortung",
+          "Change Management",
+          "Datenbankadministrator",
+          "Applikationsadministrator",
+          "Ticketabarbeitung",
+          "Abnahme",
+          "Schnittstellen",
+          "Windows",
+          "USU-Aktivität",
+          "Zabbix",
+          "POLAS-Umgebung",
+          "P-Online"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Qualitätssicherung\\checkliste_QS.md",
+      "processing_time": 6.552549600601196,
+      "action": "copy",
+      "content_length": 5584,
+      "doc_id": 44
+    },
+    {
+      "filename": "checkliste_schulung.md",
+      "original_path": "..\\resources2\\checkliste_schulung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Checkliste Schulung - Installationsprozess und Change Management",
+        "language": "de",
+        "topics": [
+          "Change Management",
+          "Softwareinstallation",
+          "Projektmanagement",
+          "IT-Administration",
+          "Qualitätssicherung"
+        ],
+        "summary": "Eine strukturierte Checkliste für Softwareinstallationen mit Fokus auf Change Management-Prozesse. Das Dokument definiert die notwendigen Schritte von der Beauftragung über die Durchführung bis zur Abnahme, inklusive Rollen und Verantwortlichkeiten für Produktverantwortung und Administration.",
+        "keywords": [
+          "Checkliste",
+          "Installation",
+          "Change Management",
+          "Produktverantwortung",
+          "Administration",
+          "Abnahme",
+          "Ticketabarbeitung",
+          "Datenbankadministrator",
+          "Applikationsadministrator",
+          "POLAS-Umgebung",
+          "USU-Aktivität",
+          "Changeantrag"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Change Management\\checkliste_schulung.md",
+      "processing_time": 6.346556186676025,
+      "action": "copy",
+      "content_length": 3358,
+      "doc_id": 45
+    },
+    {
+      "filename": "CLAUDE.md",
+      "original_path": "..\\resources2\\CLAUDE.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "CLAUDE KONFIGURATION - IMPERATIV",
+        "language": "de",
+        "topics": [
+          "KI-Konfiguration",
+          "Entwicklungsrichtlinien",
+          "Code-Standards",
+          "Workflow-Automatisierung",
+          "Qualitätssicherung",
+          "Projekt-Organisation"
+        ],
+        "summary": "Eine umfassende Konfigurationsvorlage für Claude AI-Assistant mit verbindlichen Anweisungen für Rolle, Verhalten, Code-Standards, Testing, Dokumentation und Deployment. Das Dokument definiert systematische Workflows und Qualitätsstandards für Softwareentwicklungsprojekte.",
+        "keywords": [
+          "Claude",
+          "AI-Konfiguration",
+          "Imperativ",
+          "Workflow",
+          "Code-Standards",
+          "Testing",
+          "Qualitätssicherung",
+          "Git",
+          "Deployment",
+          "Debugging",
+          "Sicherheit",
+          "Dokumentation",
+          "Full-Stack",
+          "React",
+          "Node.js"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\KI-Konfiguration\\CLAUDE.md",
+      "processing_time": 5.398471832275391,
+      "action": "copy",
+      "content_length": 6070,
+      "doc_id": 46
+    },
+    {
+      "filename": "Claude_AI_Admin_key.md",
+      "original_path": "..\\resources2\\Claude_AI_Admin_key.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Claude AI Admin Key",
+        "language": "en",
+        "topics": [
+          "API Keys",
+          "Authentication",
+          "Claude AI",
+          "Admin Credentials"
+        ],
+        "summary": "This document contains an administrative API key for Claude AI service. The key appears to be a sensitive authentication token used for administrative access to Claude AI systems.",
+        "keywords": [
+          "Claude AI",
+          "admin key",
+          "API key",
+          "authentication token",
+          "sk-ant-admin",
+          "credentials"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\API Keys\\Claude_AI_Admin_key.md",
+      "processing_time": 3.300044536590576,
+      "action": "copy",
+      "content_length": 937,
+      "doc_id": 47
+    },
+    {
+      "filename": "Claude_AI_API_Key.md",
+      "original_path": "..\\resources2\\Claude_AI_API_Key.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Claude AI API Key",
+        "language": "en",
+        "topics": [
+          "API",
+          "Authentication",
+          "Claude AI",
+          "Security Credentials"
+        ],
+        "summary": "This document contains an API key for accessing Claude AI services. The key appears to be in Anthropic's standard format starting with 'sk-ant-api03-'.",
+        "keywords": [
+          "API key",
+          "Claude",
+          "Anthropic",
+          "authentication",
+          "sk-ant-api03",
+          "access token"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\API\\Claude_AI_API_Key.md",
+      "processing_time": 3.8993079662323,
+      "action": "copy",
+      "content_length": 926,
+      "doc_id": 48
+    },
+    {
+      "filename": "ConfiForms-Lösung_für_Jira_Epic_und_Issues_Erstellung.md",
+      "original_path": "..\\resources2\\ConfiForms-Lösung_für_Jira_Epic_und_Issues_Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Lösung für Jira Epic und Issues Erstellung",
+        "language": "de",
+        "topics": [
+          "Jira Integration",
+          "ConfiForms",
+          "Confluence",
+          "Workflow Automation",
+          "Issue Management",
+          "Epic Creation",
+          "IFTTT Integration"
+        ],
+        "summary": "Detaillierte Anleitung zur Erstellung einer ConfiForms-Lösung in Confluence, die automatisch Jira Epics und zugehörige Issues erstellt. Das System verwendet IFTTT-Regeln zur Integration mit Jira und ermöglicht die automatische Erstellung von bis zu vier Issues mit vorkonfigurierten Checklisten für verschiedene Umgebungen (DevNet, Schulung, QS, Produktion).",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "Issue",
+          "IFTTT",
+          "Automation",
+          "Workflow",
+          "Checkliste",
+          "Integration",
+          "Ticket-Erstellung",
+          "Formular",
+          "JIRAPROJ24",
+          "Produktverantwortung",
+          "Change Management",
+          "Installation",
+          "DevNet",
+          "QS",
+          "Produktion"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira Integration\\ConfiForms-Lösung_für_Jira_Epic_und_Issues_Erstellung.md",
+      "processing_time": 7.811708211898804,
+      "action": "copy",
+      "content_length": 23136,
+      "doc_id": 49
+    },
+    {
+      "filename": "ConfiForms-Makro_Implementierung_Automatisierte_Jira-Epic-Erstellung.md",
+      "original_path": "..\\resources2\\ConfiForms-Makro_Implementierung_Automatisierte_Jira-Epic-Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Makro Implementierung: Automatisierte Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence",
+          "Automatisierung",
+          "Epic-Erstellung",
+          "IFTTT Integration",
+          "Atlassian",
+          "Projektmanagement"
+        ],
+        "summary": "Diese umfassende Implementierungsanleitung beschreibt die vollständige Erstellung eines ConfiForms-Makros zur automatisierten Jira-Epic-Erstellung im Projekt BWPTLS24. Das Makro ermöglicht authentifizierten Benutzern über ein benutzerfreundliches Formular Epic-Tickets zu erstellen, die automatisch mit allen erforderlichen Feldern befüllt und in Jira angelegt werden. Die Lösung basiert auf aktuellen Atlassian-Produktversionen und nutzt Application Link-Authentifizierung für nahtlose Integration zwischen Confluence und Jira.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic-Erstellung",
+          "IFTTT Integration Rules",
+          "Application Link",
+          "Automatisierung",
+          "REST-API",
+          "JSON-Mapping",
+          "Formular-Definition",
+          "TableView",
+          "Velocity Templates",
+          "BWPTLS24",
+          "Atlassian Data Center",
+          "Workflow-Automatisierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\ConfiForms-Makro_Implementierung_Automatisierte_Jira-Epic-Erstellung.md",
+      "processing_time": 7.784016847610474,
+      "action": "copy",
+      "content_length": 30318,
+      "doc_id": 50
+    },
+    {
+      "filename": "ConfiForms-Makro_Konzeption_Jira-Epic-Erstellung.md",
+      "original_path": "..\\resources2\\ConfiForms-Makro_Konzeption_Jira-Epic-Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Makro Konzeption: Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Software-Konfiguration",
+          "Jira-Integration",
+          "Confluence-Makros",
+          "API-Integration",
+          "Formularentwicklung"
+        ],
+        "summary": "Technische Spezifikation für ein ConfiForms-Makro zur automatisierten Erstellung von Jira-Epics über ein Confluence-Formular. Das Dokument definiert Formularfelder, JSON-Mapping für die Jira-API, Workflow-Ablauf und Fehlerbehandlung für die Integration zwischen Confluence und Jira.",
+        "keywords": [
+          "ConfiForms",
+          "Jira-Epic",
+          "Confluence",
+          "API-Integration",
+          "IFTTT-Regeln",
+          "JSON-Mapping",
+          "Formularvalidierung",
+          "Application Link",
+          "BWPTLS24",
+          "Workflow-Automatisierung",
+          "Fehlerbehandlung",
+          "Benutzeroberfläche"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Konfiguration\\ConfiForms-Makro_Konzeption_Jira-Epic-Erstellung.md",
+      "processing_time": 6.56539249420166,
+      "action": "copy",
+      "content_length": 5099,
+      "doc_id": 51
+    },
+    {
+      "filename": "confiforms_aufgabe.md",
+      "original_path": "..\\resources2\\confiforms_aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms Aufgabe - Automatisierte Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira Integration",
+          "Confluence",
+          "Automatisierung",
+          "Prototypentwicklung",
+          "Epic-Erstellung"
+        ],
+        "summary": "Detaillierte Aufgabenstellung zur Entwicklung eines stabilen Prototypen für ein Confiforms-Makro, das die automatisierte Erstellung von Jira-Epics ermöglicht. Das Dokument definiert spezifische technische Einschränkungen (keine Adminrechte, nur Standardelemente) und Anforderungen für die Integration zwischen Confluence und Jira.",
+        "keywords": [
+          "Confiforms",
+          "Jira-Epic",
+          "Confluence",
+          "Prototyp",
+          "Automatisierung",
+          "BWPTLS24",
+          "Integration",
+          "Makro",
+          "JSON Mapping",
+          "IFTTT Integration Rules",
+          "Storage Format Editor",
+          "Epic-Name",
+          "Beschreibung",
+          "Components",
+          "Priorität",
+          "Fälligkeitsdatum",
+          "Ersteller",
+          "Ticketnummer"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\confiforms_aufgabe.md",
+      "processing_time": 6.5177366733551025,
+      "action": "copy",
+      "content_length": 4788,
+      "doc_id": 52
+    },
+    {
+      "filename": "confiForms_aufgabe_klein.md",
+      "original_path": "..\\resources2\\confiForms_aufgabe_klein.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Entwicklungsplan für Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira",
+          "Prototypentwicklung",
+          "Confluence-Makros",
+          "Automatisierung"
+        ],
+        "summary": "Auftrag zur Erstellung eines detaillierten, umsetzbaren Plans für einen Confiforms-Prototypen, der die automatisierte Erstellung von Jira-Epics ermöglicht. Der Plan soll in sequenziellen Teilschritten strukturiert werden, wobei jeder Schritt konkrete Durchführungsanweisungen, Ziele und erwartete Ergebnisse enthalten muss.",
+        "keywords": [
+          "Confiforms-Makro",
+          "Jira-Epic-Erstellung",
+          "Prototyp",
+          "Confluence",
+          "Automatisierung",
+          "Teilschritte",
+          "Custom Fields",
+          "Mapping",
+          "Minimalfunktionalität"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\confiForms_aufgabe_klein.md",
+      "processing_time": 5.465099573135376,
+      "action": "copy",
+      "content_length": 2801,
+      "doc_id": 53
+    },
+    {
+      "filename": "ConfiForms_Basic_Concepts_-_Wichtige_Erkenntnisse.md",
+      "original_path": "..\\resources2\\ConfiForms_Basic_Concepts_-_Wichtige_Erkenntnisse.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms Basic Concepts - Wichtige Erkenntnisse",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Confluence",
+          "Jira Integration",
+          "Formular-Management",
+          "API Integration"
+        ],
+        "summary": "Eine technische Dokumentation über ConfiForms-Grundlagen für Confluence, die Makro-Strukturen, Jira-Integration via IFTTT und praktische JSON-Beispiele für Issue-Erstellung behandelt. Das Dokument erklärt die wichtigsten Makros wie Form Definition, Field Definition und Registration Control sowie deren Verwendung für die Integration mit Jira-Systemen.",
+        "keywords": [
+          "ConfiForms",
+          "Confluence",
+          "Jira",
+          "IFTTT Integration",
+          "Makros",
+          "Form Definition",
+          "Field Definition",
+          "Registration Control",
+          "TableView",
+          "ListView",
+          "Velocity Templates",
+          "JSON Mapping",
+          "REST API",
+          "Issue Creation",
+          "File Attachments"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\ConfiForms_Basic_Concepts_-_Wichtige_Erkenntnisse.md",
+      "processing_time": 5.574708461761475,
+      "action": "copy",
+      "content_length": 5045,
+      "doc_id": 54
+    },
+    {
+      "filename": "ConfiForms_Jira-Listen_Integration_-_Recherche-Ergebnisse.md",
+      "original_path": "..\\resources2\\ConfiForms_Jira-Listen_Integration_-_Recherche-Ergebnisse.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms Jira-Listen Integration - Recherche-Ergebnisse",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "REST API",
+          "Webservice Integration",
+          "Confluence"
+        ],
+        "summary": "Das Dokument dokumentiert Recherche-Ergebnisse zur Integration von Jira-Listen (Components, Fix Versions) in ConfiForms. Es werden verschiedene Lösungsansätze beschrieben, von Webservice-basierten Field Definitions bis hin zum speziellen Jira Select Field seit ConfiForms 3.13, mit detaillierten Konfigurationsanleitungen und Implementierungsempfehlungen.",
+        "keywords": [
+          "ConfiForms",
+          "Jira REST API",
+          "Components",
+          "Fix Versions",
+          "Webservice Multi-select",
+          "Application Link",
+          "Epic Creator",
+          "Field Definition",
+          "JSON Response",
+          "Jira Select Field",
+          "JIRAPRO24",
+          "createmeta API",
+          "Issue Types",
+          "Priorities"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\ConfiForms_Jira-Listen_Integration_-_Recherche-Ergebnisse.md",
+      "processing_time": 5.478424549102783,
+      "action": "copy",
+      "content_length": 8186,
+      "doc_id": 55
+    },
+    {
+      "filename": "ConfiForms_Jira_Epic_Issues_Erstellung_-_Präsentation.md",
+      "original_path": "..\\resources2\\ConfiForms_Jira_Epic_Issues_Erstellung_-_Präsentation.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Automatisierte Jira Epic & Issue Erstellung mit ConfiForms - Präsentation",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence",
+          "Workflow Automation",
+          "Project Management",
+          "Technical Documentation"
+        ],
+        "summary": "Eine strukturierte Präsentation zur Erstellung eines automatisierten Systems mit ConfiForms, das Jira Epics und Issues direkt aus Confluence-Formularen erstellt. Die Anleitung umfasst 10 Schritte von der Grundkonfiguration bis zur Testphase und richtet sich an Benutzer ohne Admin-Rechte.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "Issues",
+          "IFTTT",
+          "Application Link",
+          "Formular",
+          "Automatisierung",
+          "Checklisten",
+          "Integration",
+          "Workflow",
+          "Confluence Server 8.5",
+          "Jira Server 9.12",
+          "Field Definition",
+          "Registration Control"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\ConfiForms_Jira_Epic_Issues_Erstellung_-_Präsentation.md",
+      "processing_time": 5.764291524887085,
+      "action": "copy",
+      "content_length": 8501,
+      "doc_id": 56
+    },
+    {
+      "filename": "confiforms_makro_dokumentation.md",
+      "original_path": "..\\resources2\\confiforms_makro_dokumentation.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro für automatisierte Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira Integration",
+          "Confluence Makros",
+          "Workflow Automatisierung",
+          "REST API"
+        ],
+        "summary": "Diese technische Dokumentation beschreibt die vollständige Konfiguration eines Confiforms-Makros für Confluence, das über eine Eingabemaske automatisch Jira-Epics erstellt. Das Makro nutzt die Confiforms IFTTT-Integration und die Jira REST API v3, um neue Epics im Projekt JIRAPRO24 zu erstellen und dem Benutzer interaktive Links zur Verfügung zu stellen.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "REST API",
+          "IFTTT",
+          "Makro-Konfiguration",
+          "Automatisierung",
+          "Integration",
+          "Field Definition",
+          "Registration Control",
+          "ListView",
+          "JSON",
+          "Authentifizierung",
+          "Application Link"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\confiforms_makro_dokumentation.md",
+      "processing_time": 5.8140928745269775,
+      "action": "copy",
+      "content_length": 11501,
+      "doc_id": 57
+    },
+    {
+      "filename": "confiforms_research.md",
+      "original_path": "..\\resources2\\confiforms_research.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Recherche-Ergebnisse: Confiforms IFTTT und Jira-Integration",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira-Integration",
+          "IFTTT-Makros",
+          "Epic-Erstellung",
+          "Atlassian-Tools"
+        ],
+        "summary": "Dokumentation der Recherche-Ergebnisse zur Integration von Confiforms mit Jira über IFTTT-Makros für die automatisierte Epic-Erstellung. Das Dokument beschreibt die technischen Grundlagen, JSON-Strukturen für die Jira REST API und spezielle Anforderungen für Epic-Issue-Types in Jira.",
+        "keywords": [
+          "Confiforms",
+          "IFTTT",
+          "Jira",
+          "Epic",
+          "JSON",
+          "REST API",
+          "Issue-Erstellung",
+          "customfield_10103",
+          "JIRAPRO24",
+          "Application Link",
+          "WebService Connection",
+          "onCreated",
+          "onModified",
+          "onDeleted",
+          "onError"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\confiforms_research.md",
+      "processing_time": 6.727763891220093,
+      "action": "copy",
+      "content_length": 3025,
+      "doc_id": 58
+    },
+    {
+      "filename": "ConfiForms_Result_by_Manus_v1.0.md",
+      "original_path": "..\\resources2\\ConfiForms_Result_by_Manus_v1.0.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms Makro Erstellung - Detaillierte Anleitung für Jira-Integration",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Confluence",
+          "Jira Integration",
+          "Formular-Erstellung",
+          "Makro-Konfiguration",
+          "IFTTT-Regeln"
+        ],
+        "summary": "Eine detaillierte Schritt-für-Schritt-Anleitung zur Erstellung eines ConfiForms Makros in Confluence, das Formulardaten für die automatische Erstellung von Jira Epics und Issues verwendet. Das Dokument beschreibt die Konfiguration von Formularfeldern, IFTTT-Regeln und der Integration mit Jira-Projekten.",
+        "keywords": [
+          "ConfiForms",
+          "Confluence",
+          "Jira",
+          "Epic",
+          "Issue",
+          "Formular",
+          "Makro",
+          "IFTTT",
+          "Integration",
+          "Feldkonfiguration",
+          "User Picker",
+          "Dropdown",
+          "Checkbox",
+          "Projektschlüssel",
+          "Checkliste",
+          "Bestätigungsanzeige"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\ConfiForms_Result_by_Manus_v1.0.md",
+      "processing_time": 6.6709606647491455,
+      "action": "copy",
+      "content_length": 12057,
+      "doc_id": 59
+    },
+    {
+      "filename": "confiforms_solution-1.md",
+      "original_path": "..\\resources2\\confiforms_solution-1.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms Makro für Jira Epic und Issues Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira Integration",
+          "Confiforms",
+          "Workflow Automation",
+          "Epic Management",
+          "Issue Tracking"
+        ],
+        "summary": "Eine detaillierte Anleitung zur Erstellung eines Confiforms-Formulars in Confluence, das automatisch Jira Epics mit zugehörigen Issues erstellt. Das Formular ermöglicht die Erstellung eines Epics mit bis zu vier optionalen Issues, fügt Checklisten ein und zeigt eine Bestätigungstabelle mit den erstellten Tickets an.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "Issues",
+          "IFTTT Integration",
+          "Formular",
+          "Checkliste",
+          "Workflow",
+          "Ticket-Erstellung",
+          "Application Link",
+          "Makro-Konfiguration"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\confiforms_solution-1.md",
+      "processing_time": 5.36161208152771,
+      "action": "copy",
+      "content_length": 8064,
+      "doc_id": 60
+    },
+    {
+      "filename": "confiforms_solution.md",
+      "original_path": "..\\resources2\\confiforms_solution.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms Makro für Jira Epic und Issues Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "Confiforms",
+          "Integration",
+          "Dokumentation"
+        ],
+        "summary": "Diese technische Dokumentation beschreibt die Implementierung einer Confiforms-Lösung in Confluence zur automatischen Erstellung von Jira Epics und zugehörigen Issues. Die Lösung umfasst ein strukturiertes Formular mit verschiedenen Feldern, IFTTT-Regeln für die automatische Ticket-Erstellung und eine Bestätigungstabelle zur Anzeige der erstellten Jira-Tickets.",
+        "keywords": [
+          "Confiforms",
+          "Jira Epic",
+          "Issues",
+          "IFTTT Integration",
+          "Confluence Makros",
+          "Formularerstellung",
+          "Checklisten",
+          "Application Link",
+          "Registration Control",
+          "Field Definition"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\confiforms_solution.md",
+      "processing_time": 8.450129985809326,
+      "action": "copy",
+      "content_length": 8052,
+      "doc_id": 61
+    },
+    {
+      "filename": "confiforms_ui_preview.md",
+      "original_path": "..\\resources2\\confiforms_ui_preview.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms Epic Creator - UI Preview",
+        "language": "de",
+        "topics": [
+          "Jira Integration",
+          "Confiforms",
+          "Epic Erstellung",
+          "Web Interface",
+          "Automatisierung"
+        ],
+        "summary": "Eine HTML-Benutzeroberfläche zur automatisierten Erstellung von Jira Epics über Confiforms. Das Interface simuliert ein Confluence-ähnliches Design mit Formulareingabe für Epic-Namen und zeigt die Ergebnisse der Epic-Erstellung im Jira-Projekt JIRAPRO24 an.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Epic",
+          "JIRAPRO24",
+          "Confluence",
+          "HTML Interface",
+          "JavaScript",
+          "CSS Styling",
+          "Automatisierung",
+          "customfield_10103",
+          "UI Preview",
+          "Form Validation"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira Integration\\confiforms_ui_preview.md",
+      "processing_time": 6.0028276443481445,
+      "action": "copy",
+      "content_length": 16093,
+      "doc_id": 62
+    },
+    {
+      "filename": "confluence_jira_Vorraussetzungen_und_Quellen.md",
+      "original_path": "..\\resources2\\confluence_jira_Vorraussetzungen_und_Quellen.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confluence Jira Voraussetzungen und Quellen",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "Confiforms",
+          "Atlassian",
+          "Integration",
+          "Entwicklungsrichtlinien"
+        ],
+        "summary": "Dokumentation der technischen Voraussetzungen und Arbeitsabläufe für die Entwicklung mit Confluence 8.5 und Jira 9.12 in Server/Data Center Umgebungen. Definiert Einschränkungen bei fehlenden Admin-Rechten und spezifiziert den erforderlichen Workflow für Prototyping mit Confiforms Plugin.",
+        "keywords": [
+          "Confluence 8.5",
+          "Jira 9.12",
+          "Confiforms",
+          "Server/Data Center",
+          "Admin-Rechte",
+          "Storage Format Editor",
+          "Prototyping",
+          "GUI-Komponenten",
+          "Atlassian Community",
+          "wiki.vertuna.com",
+          "Network Integration",
+          "Workflow",
+          "Pre-task Analysis"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\confluence_jira_Vorraussetzungen_und_Quellen.md",
+      "processing_time": 8.104857921600342,
+      "action": "copy",
+      "content_length": 3448,
+      "doc_id": 63
+    },
+    {
+      "filename": "confluence_key.md",
+      "original_path": "..\\resources2\\confluence_key.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confluence License Key",
+        "language": "en",
+        "topics": [
+          "software licensing",
+          "confluence",
+          "server configuration"
+        ],
+        "summary": "Das Dokument enthält einen Confluence-Lizenzschlüssel mit einer Server-ID und einem Base64-codierten Lizenztoken. Es handelt sich um Konfigurationsdaten für eine Confluence-Serverinstallation.",
+        "keywords": [
+          "confluence",
+          "license key",
+          "server-id",
+          "B7FZ-1S5O-KNWE-4CGN",
+          "base64",
+          "server configuration",
+          "atlassian"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\software licensing\\confluence_key.md",
+      "processing_time": 4.763920783996582,
+      "action": "copy",
+      "content_length": 1486,
+      "doc_id": 64
+    },
+    {
+      "filename": "Detaillierte_Implementierungsanleitung_für_ConfiForms_Jira_Epic_und_Issues_Erstellung.md",
+      "original_path": "..\\resources2\\Detaillierte_Implementierungsanleitung_für_ConfiForms_Jira_Epic_und_Issues_Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Detaillierte Implementierungsanleitung für ConfiForms Jira Epic und Issues Erstellung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira",
+          "Epic Management",
+          "Issue Tracking",
+          "Implementierung"
+        ],
+        "summary": "Das Dokument sollte eine detaillierte Anleitung zur Implementierung von ConfiForms für die Erstellung von Jira Epics und Issues enthalten. Allerdings ist der Inhalt aufgrund eines 504 Gateway Timeout-Fehlers nicht verfügbar, was auf ein technisches Problem beim Dokumentenabruf hinweist.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Epic",
+          "Issues",
+          "Implementierungsanleitung",
+          "Gateway Timeout",
+          "APISIX",
+          "openresty"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Detaillierte_Implementierungsanleitung_für_ConfiForms_Jira_Epic_und_Issues_Erstellung.md",
+      "processing_time": 5.02046799659729,
+      "action": "copy",
+      "content_length": 1154,
+      "doc_id": 65
+    },
+    {
+      "filename": "Detaillierter_Vergleich_Alternative_Lösung_vs._Entwickelte_Lösung.md",
+      "original_path": "..\\resources2\\Detaillierter_Vergleich_Alternative_Lösung_vs._Entwickelte_Lösung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Detaillierter Vergleich: Alternative Lösung vs. Entwickelte Lösung",
+        "language": "de",
+        "topics": [
+          "Confiforms-Integration",
+          "Jira-Automatisierung",
+          "Workflow-Management",
+          "System-Architektur",
+          "Epic-Erstellung",
+          "Dokumentationsautomatisierung"
+        ],
+        "summary": "Eine umfassende technische Analyse zweier Confiforms-Lösungen für die Jira-Integration. Die entwickelte Lösung fokussiert sich auf minimale Epic-Erstellung für JIRAPRO24, während die alternative Lösung einen vollständigen Workflow von Issue-Erstellung bis zur automatisierten Confluence-Dokumentation bietet. Der Vergleich untersucht Architektur, Performance, Wartbarkeit und Anwendungsfall-Eignung beider Ansätze.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "IFTTT",
+          "Epic-Erstellung",
+          "Workflow-Automatisierung",
+          "API-Integration",
+          "Confluence",
+          "JSON-Payload",
+          "JIRAPRO24",
+          "Dokumentationsautomatisierung",
+          "Performance-Analyse",
+          "Skalierbarkeit",
+          "Benutzeroberfläche",
+          "Wartbarkeit"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms-Integration\\Detaillierter_Vergleich_Alternative_Lösung_vs._Entwickelte_Lösung.md",
+      "processing_time": 6.941828489303589,
+      "action": "copy",
+      "content_length": 20079,
+      "doc_id": 66
+    },
+    {
+      "filename": "Einschränkungen_und_Vorgaben.md",
+      "original_path": "..\\resources2\\Einschränkungen_und_Vorgaben.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Einschränkungen und Vorgaben für Confluence/Jira Prototyp",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Prototyp-Entwicklung",
+          "Technische Spezifikationen",
+          "System-Einschränkungen"
+        ],
+        "summary": "Dokument mit strikten technischen, funktionalen und rechtlichen Vorgaben für einen Confluence/Jira-Prototyp. Definiert Einschränkungen wie fehlende Adminrechte, Verwendung nur nativer Standardelemente und spezifische Versionsanforderungen für Confluence 9.2.4, Jira 10.3.6 und ConfiForms 3.17.7.",
+        "keywords": [
+          "Confluence 9.2.4",
+          "Jira 10.3.6",
+          "ConfiForms 3.17.7",
+          "keine Adminrechte",
+          "Storage Format Editor",
+          "native grafische Elemente",
+          "BWPTLS24",
+          "Epic-Erstellung",
+          "JSON Mapping Helper",
+          "Prototyp-Einschränkungen"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\Einschränkungen_und_Vorgaben.md",
+      "processing_time": 5.696462154388428,
+      "action": "copy",
+      "content_length": 2904,
+      "doc_id": 67
+    },
+    {
+      "filename": "Ergänzung_zu_Felder.md",
+      "original_path": "..\\resources2\\Ergänzung_zu_Felder.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Ergänzende Infos zu den Feldern",
+        "language": "de",
+        "topics": [
+          "Jira-Konfiguration",
+          "Feldspezifikationen",
+          "Epic-Management",
+          "Projektmanagement"
+        ],
+        "summary": "Dokumentation der Feldkonfiguration für Jira-Epics im Projekt BWPTLS24. Enthält detaillierte Spezifikationen für Pflichtfelder, Dropdown-Menüs, Mehrfachauswahloptionen und automatische Vorausfüllungen für die Epic-Erstellung.",
+        "keywords": [
+          "Jira",
+          "Epic",
+          "Feldkonfiguration",
+          "BWPTLS24",
+          "Customfields",
+          "Anforderungskategorien",
+          "Komponenten",
+          "Prioritäten",
+          "Bearbeiter",
+          "Lösungsversion"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira-Konfiguration\\Ergänzung_zu_Felder.md",
+      "processing_time": 6.885761499404907,
+      "action": "copy",
+      "content_length": 2586,
+      "doc_id": 68
+    },
+    {
+      "filename": "Erweiterte_Benutzeroberfläche_mit_bidirektionaler_Datenverknüpfung.md",
+      "original_path": "..\\resources2\\Erweiterte_Benutzeroberfläche_mit_bidirektionaler_Datenverknüpfung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Erweiterte Benutzeroberfläche mit bidirektionaler Datenverknüpfung",
+        "language": "de",
+        "topics": [
+          "Benutzeroberfläche",
+          "Datenverknüpfung",
+          "ConfiForms",
+          "Jira-Integration",
+          "Web-Entwicklung"
+        ],
+        "summary": "Das Dokument beschreibt eine erweiterte Benutzeroberfläche für die bidirektionale Datenverknüpfung zwischen ConfiForms und Jira. Es umfasst detaillierte Konfigurationen für ListView-Templates, CSS-Styles, JavaScript-Funktionalitäten und Table-Integration mit dynamischen Statusanzeigen, interaktiven Jira-Links und Real-time-Updates.",
+        "keywords": [
+          "ConfiForms",
+          "ListView",
+          "bidirektionale Datenverknüpfung",
+          "Jira Epic",
+          "JavaScript",
+          "CSS",
+          "UI-Template",
+          "Auto-Refresh",
+          "Modal",
+          "Statusanzeige",
+          "Table-Integration",
+          "Real-time Updates",
+          "Epic-Management",
+          "Confluence-Makro"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Benutzeroberfläche\\Erweiterte_Benutzeroberfläche_mit_bidirektionaler_Datenverknüpfung.md",
+      "processing_time": 6.797998428344727,
+      "action": "copy",
+      "content_length": 30781,
+      "doc_id": 69
+    },
+    {
+      "filename": "Erweiterte_ConfiForms-Konfiguration_Epic_Creator_mit_Jira-Dropdown-Feldern.md",
+      "original_path": "..\\resources2\\Erweiterte_ConfiForms-Konfiguration_Epic_Creator_mit_Jira-Dropdown-Feldern.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Erweiterte ConfiForms-Konfiguration: Epic Creator mit Jira-Dropdown-Feldern",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira-Integration",
+          "Epic-Erstellung",
+          "Confluence-Makros",
+          "Dropdown-Felder",
+          "IFTTT-Regeln",
+          "Webservice-Integration"
+        ],
+        "summary": "Umfassende Anleitung zur Erweiterung eines ConfiForms Epic Creator-Makros um Jira-synchronisierte Dropdown-Felder für Components und Fix Versions. Beinhaltet primäre Konfiguration mit Jira Select Fields, Fallback-Optionen, IFTTT-Integration für bidirektionale Datenverknüpfung sowie Troubleshooting und Wartungsanleitungen.",
+        "keywords": [
+          "ConfiForms",
+          "Jira Select Field",
+          "Epic Creator",
+          "Components",
+          "Fix Versions",
+          "IFTTT",
+          "Application Link",
+          "Webservice Connection",
+          "JSON-Payload",
+          "Bidirektionale Verknüpfung",
+          "Dropdown-Felder",
+          "Multi-Select",
+          "REST API",
+          "Confluence-Jira-Integration",
+          "Troubleshooting",
+          "Performance-Monitoring"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Erweiterte_ConfiForms-Konfiguration_Epic_Creator_mit_Jira-Dropdown-Feldern.md",
+      "processing_time": 8.682123184204102,
+      "action": "copy",
+      "content_length": 27583,
+      "doc_id": 70
+    },
+    {
+      "filename": "Erweiterte_ConfiForms-Konfiguration_mit_bidirektionaler_Datenverknüpfung.md",
+      "original_path": "..\\resources2\\Erweiterte_ConfiForms-Konfiguration_mit_bidirektionaler_Datenverknüpfung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Erweiterte ConfiForms-Konfiguration mit bidirektionaler Datenverknüpfung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence",
+          "Makro-Konfiguration",
+          "bidirektionale Datenverknüpfung",
+          "IFTTT",
+          "Epic-Erstellung",
+          "Workflow-Automatisierung"
+        ],
+        "summary": "Detaillierte Anleitung zur Erweiterung einer Epic-Creator-Lösung in Confluence ConfiForms um bidirektionale Datenverknüpfung mit Jira. Das Dokument beschreibt die Konfiguration zusätzlicher Felder (jiraKey, jiraUrl, epicStatus) und entsprechender Field Definition Rules für automatische Rückspeicherung von Jira-generierten Epic-Keys.",
+        "keywords": [
+          "ConfiForms Form Definition",
+          "Field Definition Rules",
+          "Jira Epic Key",
+          "IFTTT Integration",
+          "Registration Control",
+          "Field Validation Rules",
+          "CSS-Styling",
+          "JavaScript Auto-Refresh",
+          "Progress Indicator",
+          "bidirektionale Verknüpfung",
+          "Status-Tracking",
+          "Confluence Makros",
+          "Epic-Creator",
+          "Workflow-Automatisierung",
+          "Audit Trail",
+          "Versioning"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Erweiterte_ConfiForms-Konfiguration_mit_bidirektionaler_Datenverknüpfung.md",
+      "processing_time": 7.566915273666382,
+      "action": "copy",
+      "content_length": 13919,
+      "doc_id": 71
+    },
+    {
+      "filename": "erweiterte_ui_vorschau.md",
+      "original_path": "..\\resources2\\erweiterte_ui_vorschau.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Epic Creator mit Jira-Integration - UI Vorschau",
+        "language": "de",
+        "topics": [
+          "Jira-Integration",
+          "ConfiForms",
+          "Web-Interface",
+          "Epic-Erstellung",
+          "UI/UX Design",
+          "Projektmanagement-Tool"
+        ],
+        "summary": "Eine erweiterte HTML-Benutzeroberfläche für ein ConfiForms-Makro zur automatisierten Jira-Epic-Erstellung. Das Interface enthält ein Formular zur Epic-Erstellung mit Multi-Select-Dropdown-Feldern für Komponenten und Versionen sowie eine ListView zur Anzeige erstellter Epics mit bidirektionaler Jira-Verknüpfung.",
+        "keywords": [
+          "Jira",
+          "ConfiForms",
+          "Epic Creator",
+          "HTML Interface",
+          "Multi-Select",
+          "Components",
+          "Fix Versions",
+          "Responsive Design",
+          "JavaScript",
+          "CSS",
+          "Projektmanagement",
+          "Automatisierung",
+          "Web-Formular",
+          "UI Vorschau"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira-Integration\\erweiterte_ui_vorschau.md",
+      "processing_time": 7.505291223526001,
+      "action": "copy",
+      "content_length": 36510,
+      "doc_id": 72
+    },
+    {
+      "filename": "Erweiterungsplanung_Bidirektionale_Datenverknüpfung.md",
+      "original_path": "..\\resources2\\Erweiterungsplanung_Bidirektionale_Datenverknüpfung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Erweiterungsplanung: Bidirektionale Datenverknüpfung",
+        "language": "de",
+        "topics": [
+          "Software-Erweiterung",
+          "Systemarchitektur",
+          "Datenintegration",
+          "Jira-Integration",
+          "ConfiForms",
+          "IFTTT-Automatisierung"
+        ],
+        "summary": "Das Dokument beschreibt die Planung einer Erweiterung für eine bestehende Epic-Creator-Lösung, die eine bidirektionale Datenverknüpfung zwischen ConfiForms und Jira implementieren soll. Ziel ist es, Jira-Keys automatisch zurück in ConfiForms zu speichern und damit erweiterte Tracking- und Reporting-Funktionen zu ermöglichen.",
+        "keywords": [
+          "bidirektionale Datenverknüpfung",
+          "Epic-Creator",
+          "ConfiForms",
+          "Jira",
+          "IFTTT-Integration",
+          "Architektur",
+          "Datenmodell-Erweiterung",
+          "ListView",
+          "Field Definition Rules",
+          "Rückwärtskompatibilität",
+          "Implementierungsplan",
+          "Risikobewertung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Erweiterung\\Erweiterungsplanung_Bidirektionale_Datenverknüpfung.md",
+      "processing_time": 5.709026575088501,
+      "action": "copy",
+      "content_length": 5109,
+      "doc_id": 73
+    },
+    {
+      "filename": "Felder.md",
+      "original_path": "..\\resources2\\Felder.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "JIRA Epic Fields Configuration",
+        "language": "en",
+        "topics": [
+          "JIRA Configuration",
+          "Issue Tracking",
+          "Project Management",
+          "Field Mapping"
+        ],
+        "summary": "Eine JSON-Konfigurationsdatei, die die Feldstruktur für JIRA Epic-Issues definiert. Das Dokument enthält Mappings für Standard- und benutzerdefinierte Felder eines JIRA-Projekts mit dem Schlüssel 'BWPTLS24'.",
+        "keywords": [
+          "JIRA",
+          "Epic",
+          "fields",
+          "customfield",
+          "project configuration",
+          "issue tracking",
+          "BWPTLS24",
+          "field mapping",
+          "JSON structure"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\JIRA Configuration\\Felder.md",
+      "processing_time": 5.25381875038147,
+      "action": "copy",
+      "content_length": 2645,
+      "doc_id": 74
+    },
+    {
+      "filename": "Fields.md",
+      "original_path": "..\\resources2\\Fields.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "JIRA Epic Fields Configuration",
+        "language": "en",
+        "topics": [
+          "JIRA Configuration",
+          "Issue Management",
+          "Software Development",
+          "Project Management"
+        ],
+        "summary": "JSON configuration template for JIRA Epic issue type fields including standard fields like summary, description, priority and custom fields for team management, effort estimation, and requirement categorization. The configuration is set up for project BWPTLS24 with German field names and placeholder values.",
+        "keywords": [
+          "JIRA",
+          "Epic",
+          "fields",
+          "configuration",
+          "JSON",
+          "customfield",
+          "project",
+          "BWPTLS24",
+          "issue type",
+          "template",
+          "components",
+          "priority",
+          "assignee",
+          "labels"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\JIRA Configuration\\Fields.md",
+      "processing_time": 5.2847630977630615,
+      "action": "copy",
+      "content_length": 2201,
+      "doc_id": 75
+    },
+    {
+      "filename": "Finale_Dokumentation_Confiforms-Makro_für_automatisierte_Jira-Epic-Erstellung.md",
+      "original_path": "..\\resources2\\Finale_Dokumentation_Confiforms-Makro_für_automatisierte_Jira-Epic-Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Finale Dokumentation: Confiforms-Makro für automatisierte Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Atlassian Confluence",
+          "Jira Integration",
+          "Confiforms",
+          "Automatisierung",
+          "Epic-Erstellung",
+          "IFTTT",
+          "REST API",
+          "Dokumentation",
+          "Softwareentwicklung"
+        ],
+        "summary": "Vollständige technische Dokumentation einer Confiforms-basierten Lösung zur automatisierten Erstellung von Jira-Epics im Projekt JIRAPRO24. Die Lösung nutzt eine intuitive Eingabemaske in Confluence und erstellt über IFTTT-Regeln und die Jira REST API v3 automatisch Epics mit entsprechenden Links und Metadaten. Das Dokument beschreibt Architektur, Implementierung, Konfiguration und Wartung des Systems.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Epic-Erstellung",
+          "IFTTT",
+          "REST API",
+          "Application Links",
+          "Automatisierung",
+          "JIRAPRO24",
+          "JSON",
+          "Atlassian",
+          "customfield_10103",
+          "Form Definition",
+          "ListView",
+          "Registration Control",
+          "Workflow-Automatisierung",
+          "API-Integration",
+          "Benutzeroberfläche",
+          "Fehlerbehandlung",
+          "Performance-Optimierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Atlassian Confluence\\Finale_Dokumentation_Confiforms-Makro_für_automatisierte_Jira-Epic-Erstellung.md",
+      "processing_time": 8.0160551071167,
+      "action": "copy",
+      "content_length": 19576,
+      "doc_id": 76
+    },
+    {
+      "filename": "Finale_Dokumentation_ConfiForms_Epic_Creator_mit_bidirektionaler_Datenverknüpfung.md",
+      "original_path": "..\\resources2\\Finale_Dokumentation_ConfiForms_Epic_Creator_mit_bidirektionaler_Datenverknüpfung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Finale Dokumentation: ConfiForms Epic Creator mit bidirektionaler Datenverknüpfung",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Epic-Erstellung",
+          "Atlassian Confluence",
+          "IFTTT Automation",
+          "Workflow Automation",
+          "Projektmanagement",
+          "API Integration"
+        ],
+        "summary": "Diese umfassende technische Dokumentation beschreibt eine erweiterte ConfiForms-Lösung für die automatisierte Jira-Epic-Erstellung mit bidirektionaler Datenverknüpfung. Die Lösung implementiert eine verkettete IFTTT-Architektur, die nicht nur Epics in Jira erstellt, sondern auch die generierten Jira-Keys zurück in das ConfiForms-System speichert. Die Dokumentation umfasst technische Architektur, Implementierungsanleitungen, Benutzerhandbuch und Wartungsrichtlinien für eine enterprise-taugliche Integration zwischen Confluence und Jira.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Epic Creator",
+          "bidirektionale Datenverknüpfung",
+          "IFTTT",
+          "Atlassian",
+          "REST API",
+          "Confluence",
+          "Workflow-Automatisierung",
+          "JSON-Payload",
+          "Application Link",
+          "Performance-Monitoring",
+          "Error-Handling",
+          "Audit-Trail",
+          "Projektmanagement-Tools"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Finale_Dokumentation_ConfiForms_Epic_Creator_mit_bidirektionaler_Datenverknüpfung.md",
+      "processing_time": 7.730623245239258,
+      "action": "copy",
+      "content_length": 27860,
+      "doc_id": 77
+    },
+    {
+      "filename": "Finale_Projekt-Zusammenfassung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "original_path": "..\\resources2\\Finale_Projekt-Zusammenfassung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Finale Projekt-Zusammenfassung: ConfiForms Epic Creator mit Jira-Dropdown-Integration",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira Integration",
+          "Atlassian",
+          "Projektmanagement",
+          "Enterprise Software",
+          "API Integration",
+          "Confluence",
+          "Workflow Automation"
+        ],
+        "summary": "Umfassende Projektzusammenfassung der erfolgreichen Entwicklung eines ConfiForms Epic Creator-Makros mit automatischer Jira-Integration für Components und Fix Versions. Das Projekt umfasste eine dreistufige Implementierungsstrategie mit Jira Select Field, webservice-basierten Fallbacks und createmeta API-Integration, sowie eine moderne UI/UX-Implementierung und enterprise-grade Dokumentation.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Epic Creator",
+          "Dropdown-Integration",
+          "Atlassian",
+          "API",
+          "Confluence",
+          "Enterprise-Integration",
+          "Webservice",
+          "JSON-Payload",
+          "OAuth",
+          "IFTTT",
+          "UI/UX",
+          "Performance-Optimierung",
+          "Sicherheit",
+          "Compliance",
+          "Automatisierung",
+          "Projektmanagement",
+          "Business Process"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Finale_Projekt-Zusammenfassung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "processing_time": 6.4907684326171875,
+      "action": "copy",
+      "content_length": 10069,
+      "doc_id": 78
+    },
+    {
+      "filename": "Firefox_ContextCrafter_-_Projektzusammenfassung.md",
+      "original_path": "..\\resources2\\Firefox_ContextCrafter_-_Projektzusammenfassung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Firefox ContextCrafter - Projektzusammenfassung",
+        "language": "de",
+        "topics": [
+          "Software-Entwicklung",
+          "Browser-Plugin",
+          "Model Context Protocol",
+          "AI-Integration",
+          "WebExtensions"
+        ],
+        "summary": "Dokumentation eines erfolgreich entwickelten Firefox-Plugins namens ContextCrafter, das das Model Context Protocol (MCP) implementiert und die Integration externer Tools in AI-Plattformen wie Claude und ChatGPT ermöglicht. Das Projekt umfasst eine vollständige technische Implementierung mit React-UI, TypeScript-Entwicklung und umfassenden Sicherheitsfeatures.",
+        "keywords": [
+          "Firefox",
+          "ContextCrafter",
+          "Model Context Protocol",
+          "MCP",
+          "WebExtensions",
+          "React",
+          "TypeScript",
+          "Claude",
+          "ChatGPT",
+          "Browser-Plugin",
+          "AI-Integration",
+          "Sidebar UI",
+          "Content Scripts",
+          "Background Service Worker",
+          "Vite",
+          "Open Source",
+          "MIT Lizenz"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Entwicklung\\Firefox_ContextCrafter_-_Projektzusammenfassung.md",
+      "processing_time": 6.3307883739471436,
+      "action": "copy",
+      "content_length": 6199,
+      "doc_id": 79
+    },
+    {
+      "filename": "Implementierung_der_bidirektionalen_IFTTT-Integration.md",
+      "original_path": "..\\resources2\\Implementierung_der_bidirektionalen_IFTTT-Integration.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Implementierung der bidirektionalen IFTTT-Integration",
+        "language": "de",
+        "topics": [
+          "IFTTT-Integration",
+          "ConfiForms",
+          "Jira",
+          "API-Integration",
+          "Workflow-Automatisierung",
+          "Datenverknüpfung"
+        ],
+        "summary": "Das Dokument beschreibt die Implementierung einer erweiterten bidirektionalen IFTTT-Architektur für die Datenverknüpfung zwischen ConfiForms und Jira. Es erklärt die Konfiguration von drei verketteten IFTTT-Regeln: Epic-Erstellung, Datenrückspeicherung und Status-Monitoring, sowie deren JSON-Payloads, Error Handling, Performance-Optimierung und Sicherheitsaspekte.",
+        "keywords": [
+          "IFTTT",
+          "ConfiForms",
+          "Jira Epic",
+          "bidirektionale Integration",
+          "API-Response",
+          "JSON-Payload",
+          "Error Handling",
+          "Conditional Logic",
+          "Performance-Optimierung",
+          "Audit Trail",
+          "Retry-Mechanismen",
+          "Load Testing",
+          "Workflow-Automatisierung",
+          "Datenintegrität"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\IFTTT-Integration\\Implementierung_der_bidirektionalen_IFTTT-Integration.md",
+      "processing_time": 6.6137917041778564,
+      "action": "copy",
+      "content_length": 12072,
+      "doc_id": 80
+    },
+    {
+      "filename": "Jira-Confluence_AI_Antwort_1.md",
+      "original_path": "..\\resources2\\Jira-Confluence_AI_Antwort_1.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms-Jira Integration: Automatische Epic und Issue-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Workflow-Automation",
+          "Integration",
+          "Prozessautomatisierung"
+        ],
+        "summary": "Eine detaillierte Anleitung zur Erstellung eines automatisierten Prozesses in Confluence mit ConfiForms, der bei Formulareingaben automatisch Epics und verknüpfte Issues in Jira erstellt. Der Prozess umfasst die Konfiguration von Formularfeldern, IFTTT-Regeln für die Jira-Integration und Bestätigungsanzeigen ohne Admin-Rechte.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic",
+          "Issues",
+          "IFTTT",
+          "Application Link",
+          "Checklisten",
+          "Workflow",
+          "Automation",
+          "Formular",
+          "Integration",
+          "Vorgangstypen",
+          "Prioritäten",
+          "Epic Link"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\Jira-Confluence_AI_Antwort_1.md",
+      "processing_time": 6.844360113143921,
+      "action": "copy",
+      "content_length": 13974,
+      "doc_id": 81
+    },
+    {
+      "filename": "jira_api_tester.md",
+      "original_path": "..\\resources2\\jira_api_tester.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Jira REST API Test Script für Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Jira API",
+          "Python",
+          "REST API",
+          "Epic-Erstellung",
+          "Confiforms",
+          "Atlassian",
+          "Automatisierung"
+        ],
+        "summary": "Ein Python-Testskript zur Validierung der Jira REST API Integration für die automatisierte Erstellung von Epics über Confiforms-Makros. Das Script testet Verbindungen, Projektinformationen, verfügbare Issue Types und führt vollständige Tests der Epic-Erstellungsfunktionalität durch.",
+        "keywords": [
+          "JiraEpicTester",
+          "REST API",
+          "API Token",
+          "Basic Auth",
+          "Issue Types",
+          "Epic",
+          "Confiforms",
+          "JSON Payload",
+          "Atlassian",
+          "Python",
+          "Automatisierung",
+          "Test Script",
+          "API Integration",
+          "Confluence"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira API\\jira_api_tester.md",
+      "processing_time": 26.2515926361084,
+      "action": "copy",
+      "content_length": 12718,
+      "doc_id": 82
+    },
+    {
+      "filename": "Jiraaufgabenstellung_22.07.2025.md",
+      "original_path": "..\\resources2\\Jiraaufgabenstellung_22.07.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Jira Integration",
+          "Confluence Makro Entwicklung",
+          "Confiforms",
+          "Automatisierung",
+          "Epic-Erstellung",
+          "API Integration"
+        ],
+        "summary": "Detaillierte Aufgabenstellung zur Entwicklung eines Confiforms-Makros in Confluence, das über einen Button automatisch Epic-Tickets in Jira erstellt. Das Makro soll Benutzerfreundlichkeit bieten, Formularfelder validieren und nach erfolgreicher Erstellung eine Übersicht der letzten 5 Tickets anzeigen.",
+        "keywords": [
+          "Confiforms",
+          "Jira API",
+          "Epic-Ticket",
+          "Confluence 9.2.4",
+          "Jira 10.3.6",
+          "BWPTLS24",
+          "API-Token",
+          "Basic Auth",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "customfield_10103",
+          "customfield_10403",
+          "customfield_10524",
+          "customfield_12500",
+          "Formularvalidierung",
+          "Fehlerbehandlung",
+          "Data Center Version",
+          "Prototyp-Entwicklung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira Integration\\Jiraaufgabenstellung_22.07.2025.md",
+      "processing_time": 7.083099365234375,
+      "action": "copy",
+      "content_length": 9547,
+      "doc_id": 83
+    },
+    {
+      "filename": "JiraConfluence_Software.md",
+      "original_path": "..\\resources2\\JiraConfluence_Software.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confluence 8.5 und Jira 9.12 Server-Integration",
+        "language": "de",
+        "topics": [
+          "Software-Integration",
+          "Atlassian-Tools",
+          "Server-Konfiguration",
+          "Benutzerrechte"
+        ],
+        "summary": "Beschreibung einer Netzwerkverbindung zwischen Confluence 8.5 und Jira 9.12 in der Server-Client-Version. Der Benutzer hat keine Administratorenrechte in beiden Systemen und keinen Zugriff auf Quellcode-Editoren.",
+        "keywords": [
+          "Confluence 8.5",
+          "Jira 9.12",
+          "Server-Integration",
+          "Netzwerk",
+          "Administratorenrechte",
+          "Quellcode-Editor",
+          "Server-Client-Version"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Integration\\JiraConfluence_Software.md",
+      "processing_time": 4.407465219497681,
+      "action": "copy",
+      "content_length": 1198,
+      "doc_id": 84
+    },
+    {
+      "filename": "Jiraepicerstellung_Aufgabe_23.07.2025.md",
+      "original_path": "..\\resources2\\Jiraepicerstellung_Aufgabe_23.07.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Jira-Integration",
+          "Confluence-Makros",
+          "Confiforms",
+          "Automatisierung",
+          "Epic-Erstellung",
+          "API-Integration"
+        ],
+        "summary": "Detaillierte Aufgabenstellung zur Entwicklung eines Confiforms-Makros für Confluence, das Benutzern ermöglicht, über ein Formular automatisch Epic-Tickets in Jira zu erstellen. Das Dokument spezifiziert technische Anforderungen, Feldkonfigurationen, Authentifizierung über API-Token und Beschränkungen für Benutzer ohne Administratorrechte.",
+        "keywords": [
+          "Confiforms",
+          "Jira-Epic",
+          "Confluence",
+          "API-Token",
+          "Basic Auth",
+          "BWPTLS24",
+          "customfield",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "Formularvalidierung",
+          "Fehlerbehandlung",
+          "Benutzerfreundlichkeit",
+          "Data Center Version",
+          "Automatisierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira-Integration\\Jiraepicerstellung_Aufgabe_23.07.2025.md",
+      "processing_time": 6.6632914543151855,
+      "action": "copy",
+      "content_length": 9230,
+      "doc_id": 85
+    },
+    {
+      "filename": "json_validator.md",
+      "original_path": "..\\resources2\\json_validator.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "JSON-Validator für Confiforms IFTTT Jira-Integration",
+        "language": "de",
+        "topics": [
+          "JSON-Validierung",
+          "Confiforms",
+          "Jira-Integration",
+          "IFTTT",
+          "Epic-Erstellung",
+          "Python-Entwicklung"
+        ],
+        "summary": "Ein Python-basierter JSON-Validator zur Überprüfung der JSON-Struktur für die automatisierte Epic-Erstellung in Jira über Confiforms IFTTT-Makros. Das Tool validiert JSON-Syntax, Pflichtfelder, Confiforms-Referenzen und Jira-spezifische Aspekte und bietet zusätzlich die Möglichkeit, korrekten JSON-Code zu generieren.",
+        "keywords": [
+          "JSON-Validator",
+          "Confiforms",
+          "IFTTT",
+          "Jira",
+          "Epic",
+          "Python",
+          "Validierung",
+          "Automatisierung",
+          "Custom Fields",
+          "Projekt-Integration",
+          "JSON-Syntax",
+          "Feldverweise",
+          "Issue Type"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\JSON-Validierung\\json_validator.md",
+      "processing_time": 7.125303506851196,
+      "action": "copy",
+      "content_length": 10347,
+      "doc_id": 86
+    },
+    {
+      "filename": "konkrete_Fragen_und_Antworten.md",
+      "original_path": "..\\resources2\\konkrete_Fragen_und_Antworten.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Konkrete Fragen und Antworten zu Jira-Konfiguration",
+        "language": "de",
+        "topics": [
+          "Jira-Konfiguration",
+          "System-Setup",
+          "Projektmanagement",
+          "IFTTT-Integration"
+        ],
+        "summary": "Antworten auf spezifische Fragen zur Jira-Systemkonfiguration, einschließlich Application Links, Feldkonfigurationen, Prioritäten und Projektschlüssel. Das Dokument behandelt praktische Aspekte der Jira-Einrichtung wie Checklisten, Benutzerzuweisungen und Bestätigungsmechanismen.",
+        "keywords": [
+          "Jira",
+          "Application Link",
+          "Epic Link",
+          "Checklisten",
+          "IFTTT-Regeln",
+          "Prioritäten",
+          "Projektschlüssel",
+          "JIRAPROJ24",
+          "Benutzerzuweisung",
+          "Ticket-Erstellung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira-Konfiguration\\konkrete_Fragen_und_Antworten.md",
+      "processing_time": 5.141686916351318,
+      "action": "copy",
+      "content_length": 2327,
+      "doc_id": 87
+    },
+    {
+      "filename": "konkrete_nachfragen.md",
+      "original_path": "..\\resources2\\konkrete_nachfragen.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Konkrete Nachfragen - Jira Konfiguration und Systemspezifikationen",
+        "language": "de",
+        "topics": [
+          "Jira-Konfiguration",
+          "Systemintegration",
+          "IFTTT-Regeln",
+          "Projektmanagement"
+        ],
+        "summary": "Dokument mit spezifischen Konfigurationsangaben für ein Jira-System, einschließlich Anwendungslinks, Feldkonfigurationen, Prioritäten und Projektschlüssel. Enthält detaillierte Angaben zu Checklisten-Inhalten für verschiedene Entwicklungsphasen und Benutzerzuweisungsregeln.",
+        "keywords": [
+          "Jira",
+          "IFTTT-Regeln",
+          "epicLink",
+          "Checkliste",
+          "Prioritäten",
+          "JIRAPROJ24",
+          "Benutzerzuweisung",
+          "Ticketerstellung",
+          "Produktentwicklung",
+          "Qualitätssicherung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira-Konfiguration\\konkrete_nachfragen.md",
+      "processing_time": 5.938169002532959,
+      "action": "copy",
+      "content_length": 2153,
+      "doc_id": 88
+    },
+    {
+      "filename": "Liste_mit_Feldern.md",
+      "original_path": "..\\resources2\\Liste_mit_Feldern.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Jira/Confluence Felder und Feldnamen",
+        "language": "de",
+        "topics": [
+          "Jira",
+          "Confluence",
+          "Feldkonfiguration",
+          "Projektmanagement",
+          "Dokumentation"
+        ],
+        "summary": "Eine strukturierte Auflistung von Jira/Confluence Feldern mit deren internen Feldnamen und Beschriftungen. Das Dokument erklärt die Zuordnung zwischen benutzerfreundlichen Labels und technischen Feldbezeichnungen, wobei Pflichtfelder mit einem Stern (*) markiert sind.",
+        "keywords": [
+          "Jira",
+          "Confluence",
+          "Felder",
+          "Feldnamen",
+          "Mussfeld",
+          "projectKey",
+          "epicName",
+          "issueType",
+          "priority",
+          "assignee",
+          "dueDate",
+          "customfield",
+          "BWPTLS24"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira\\Liste_mit_Feldern.md",
+      "processing_time": 5.333572149276733,
+      "action": "copy",
+      "content_length": 1504,
+      "doc_id": 89
+    },
+    {
+      "filename": "manus_frage.md",
+      "original_path": "..\\resources2\\manus_frage.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "ConfiForms Makro für Epic- und Issue-Erstellung in Jira",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Confluence Makros",
+          "Jira Integration",
+          "Workflow Automation",
+          "Projektmanagement"
+        ],
+        "summary": "Anforderungsdokumentation für die Erstellung eines ConfiForms-Makros in Confluence, das über ein Formular Jira-Epics mit Unteraufgaben (Issues) automatisch erstellt. Das Makro soll Formulareingaben verarbeiten, verschiedene Checklisten-Templates einfügen und eine Bestätigungsübersicht der erstellten Tickets anzeigen.",
+        "keywords": [
+          "ConfiForms",
+          "Confluence",
+          "Jira",
+          "Epic",
+          "Issues",
+          "Makro",
+          "Formular",
+          "Checkliste",
+          "Templates",
+          "IFTTT Integration Rules",
+          "Field Definition",
+          "Automation",
+          "Jirakey",
+          "Projektintegration"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\manus_frage.md",
+      "processing_time": 5.9487082958221436,
+      "action": "copy",
+      "content_length": 2836,
+      "doc_id": 90
+    },
+    {
+      "filename": "manus_MCP_Aufgabe.md",
+      "original_path": "..\\resources2\\manus_MCP_Aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Firefox Plugin für Model Context Protocol (MCP) Integration",
+        "language": "de",
+        "topics": [
+          "Firefox Plugin Entwicklung",
+          "Model Context Protocol (MCP)",
+          "KI-Plattform Integration",
+          "Browser-Erweiterung",
+          "AI Tools",
+          "Software-Entwicklung"
+        ],
+        "summary": "Entwicklungsauftrag für ein Firefox Plugin zur Integration von Model Context Protocol (MCP) Tools in verschiedene KI-Plattformen wie manus.im, perplexity.ai, gemini.google.co, chatgpt.ai und claude.ai. Das Plugin soll MCP-Toolaufrufe automatisch erkennen, ausführen und die Ergebnisse nahtlos in Konversationen einbinden, basierend auf einer existierenden Chrome-Erweiterung namens MCP Superassistant.",
+        "keywords": [
+          "Firefox Plugin",
+          "Model Context Protocol",
+          "MCP",
+          "KI-Integration",
+          "Browser-Erweiterung",
+          "JSON-RPC 2.0",
+          "AI-Plattformen",
+          "Tool-Integration",
+          "Reverse Engineering",
+          "MCP Superassistant",
+          "Manifest V3",
+          "Bidirektionale Kommunikation",
+          "Auto-Execute",
+          "WebSockets",
+          "OAuth2"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Firefox Plugin Entwicklung\\manus_MCP_Aufgabe.md",
+      "processing_time": 6.22574520111084,
+      "action": "copy",
+      "content_length": 7632,
+      "doc_id": 91
+    },
+    {
+      "filename": "mcp-config.md",
+      "original_path": "..\\resources2\\mcp-config.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "MCP Server Configuration",
+        "language": "en",
+        "topics": [
+          "configuration",
+          "MCP servers",
+          "development tools",
+          "automation"
+        ],
+        "summary": "Configuration file for MCP (Model Context Protocol) servers defining three server instances: git, browser, and playwright. Each server is configured to run via npx with specific package arguments for different automation and development tasks.",
+        "keywords": [
+          "MCP",
+          "mcpServers",
+          "git-mcp-server",
+          "browser",
+          "playwright",
+          "npx",
+          "configuration",
+          "server setup",
+          "automation tools"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\configuration\\mcp-config.md",
+      "processing_time": 4.48418664932251,
+      "action": "copy",
+      "content_length": 1136,
+      "doc_id": 92
+    },
+    {
+      "filename": "MCP_SuperAssistant_Analyse.md",
+      "original_path": "..\\resources2\\MCP_SuperAssistant_Analyse.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "MCP SuperAssistant Analyse",
+        "language": "de",
+        "topics": [
+          "Chrome-Erweiterung",
+          "Model Context Protocol (MCP)",
+          "AI-Plattform-Integration",
+          "Browser-Extension-Entwicklung",
+          "Cross-Browser-Kompatibilität",
+          "JSON-RPC 2.0",
+          "WebExtensions API"
+        ],
+        "summary": "Diese Analyse beschreibt MCP SuperAssistant, eine Chrome-Erweiterung die das Model Context Protocol in verschiedene AI-Chat-Plattformen wie ChatGPT, Perplexity und Gemini integriert. Das Dokument behandelt technische Implementierungsdetails, Architektur-Workflows und Cross-Browser-Entwicklung für Firefox WebExtensions.",
+        "keywords": [
+          "MCP SuperAssistant",
+          "Model Context Protocol",
+          "Chrome Extension",
+          "AI-Plattformen",
+          "JSON-RPC 2.0",
+          "WebExtensions",
+          "Content Scripts",
+          "Manifest V3",
+          "Cross-Browser-Entwicklung",
+          "Firefox",
+          "ChatGPT",
+          "Perplexity",
+          "Gemini",
+          "Browser API",
+          "Tool-Integration",
+          "AI-Assistenten"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Chrome-Erweiterung\\MCP_SuperAssistant_Analyse.md",
+      "processing_time": 6.259512186050415,
+      "action": "copy",
+      "content_length": 9799,
+      "doc_id": 93
+    },
+    {
+      "filename": "neu_2.md",
+      "original_path": "..\\resources2\\neu_2.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro zur automatisierten Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confiforms",
+          "Jira Integration",
+          "Confluence Makros",
+          "Prototypentwicklung",
+          "Automatisierung"
+        ],
+        "summary": "Detaillierte Anleitung zur Entwicklung eines Confiforms-Makro-Prototypen für die automatisierte Erstellung von Jira-Epics in Confluence. Das Dokument spezifiziert technische Einschränkungen (keine Adminrechte, nur Standard-GUI-Elemente) und definiert Anforderungen für einen minimalen funktionsfähigen Prototyp mit spezifischen Epic-Feldern im Jira-Projekt BWPTLS24.",
+        "keywords": [
+          "Confiforms",
+          "Jira-Epic-Erstellung",
+          "Confluence",
+          "Prototyp",
+          "IFTTT Integration Rules",
+          "JSON Mapping",
+          "BWPTLS24",
+          "Automatisierung",
+          "keine Adminrechte",
+          "Standard-GUI-Elemente",
+          "Epic-Name",
+          "Beschreibung",
+          "Priorität",
+          "Fälligkeitsdatum"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confiforms\\neu_2.md",
+      "processing_time": 6.272431135177612,
+      "action": "copy",
+      "content_length": 4794,
+      "doc_id": 94
+    },
+    {
+      "filename": "optimized_Unified_System_Prompt.md",
+      "original_path": "..\\resources2\\optimized_Unified_System_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Unified System Prompt (Optimized English Version)",
+        "language": "en",
+        "topics": [
+          "System Prompts",
+          "AI Communication Guidelines",
+          "Language Processing",
+          "Quality Assurance",
+          "Analytical Procedures"
+        ],
+        "summary": "Ein optimierter System-Prompt, der definiert, wie ein KI-Modell kommunizieren, argumentieren und Problemanalysen durchführen soll. Das Dokument spezifiziert Richtlinien für Sprache und Ausdruck (Deutsch als Standard, Englisch für technische Begriffe), Qualität und Sorgfalt (höchste Genauigkeit und Gründlichkeit), sowie analytische Verfahren (sorgfältige Analyse vor Lösungsentwicklung).",
+        "keywords": [
+          "System Prompt",
+          "AI Communication",
+          "German Language",
+          "English Terminology",
+          "Quality Assurance",
+          "Analytical Procedure",
+          "Technical Precision",
+          "Problem Analysis",
+          "Language Guidelines",
+          "Reasoning Process"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\System Prompts\\optimized_Unified_System_Prompt.md",
+      "processing_time": 6.778759717941284,
+      "action": "copy",
+      "content_length": 3627,
+      "doc_id": 95
+    },
+    {
+      "filename": "package-lock.md",
+      "original_path": "..\\resources2\\package-lock.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Package Lock Configuration for Claude Workspace",
+        "language": "en",
+        "topics": [
+          "dependency management",
+          "Node.js configuration",
+          "package lock",
+          "npm"
+        ],
+        "summary": "This is a package-lock.json file for a Node.js project called 'claude-workspace' that manages dependencies. The project has one main dependency 'ccusage' version 16.2.5, which is a CLI tool with MIT license requiring Node.js version 20.19.4 or higher.",
+        "keywords": [
+          "package-lock.json",
+          "claude-workspace",
+          "ccusage",
+          "npm",
+          "Node.js",
+          "dependencies",
+          "lockfileVersion",
+          "MIT license",
+          "registry.npmjs.org"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\dependency management\\package-lock.md",
+      "processing_time": 4.7279908657073975,
+      "action": "copy",
+      "content_length": 1461,
+      "doc_id": 96
+    },
+    {
+      "filename": "package.md",
+      "original_path": "..\\resources2\\package.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Node.js Package Configuration",
+        "language": "en",
+        "topics": [
+          "package management",
+          "Node.js configuration",
+          "dependencies"
+        ],
+        "summary": "A Node.js package.json configuration file that defines a single dependency on the 'ccusage' package version 16.2.5. This is a minimal package configuration for a Node.js project.",
+        "keywords": [
+          "package.json",
+          "Node.js",
+          "dependencies",
+          "ccusage",
+          "npm",
+          "package management",
+          "configuration"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\package management\\package.md",
+      "processing_time": 4.366786003112793,
+      "action": "copy",
+      "content_length": 825,
+      "doc_id": 97
+    },
+    {
+      "filename": "perplexity_MCP_Aufgabe.md",
+      "original_path": "..\\resources2\\perplexity_MCP_Aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Firefox Plugin für Model Context Protocol (MCP) Integration",
+        "language": "de",
+        "topics": [
+          "Firefox Plugin Entwicklung",
+          "Model Context Protocol (MCP)",
+          "KI-Plattform Integration",
+          "Browser-Erweiterungen",
+          "AI-Tools"
+        ],
+        "summary": "Spezifikation für die Entwicklung eines Firefox Plugins zur Integration des Model Context Protocol (MCP) in verschiedene KI-Plattformen wie Perplexity, ChatGPT, Claude und Gemini. Das Plugin soll MCP-Tools nahtlos in diese Plattformen einbinden und erweiterte Interaktivität durch bidirektionale Kommunikation, automatische Tool-Erkennung und standardisierte JSON-RPC 2.0 Protokolle ermöglichen.",
+        "keywords": [
+          "Firefox Plugin",
+          "Model Context Protocol",
+          "MCP",
+          "KI-Integration",
+          "JSON-RPC 2.0",
+          "Browser-Erweiterung",
+          "AI-Plattformen",
+          "Tool-Integration",
+          "Perplexity",
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "MCP Superassistant",
+          "Bidirektionale Kommunikation",
+          "WebSockets",
+          "Automatisierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Firefox Plugin Entwicklung\\perplexity_MCP_Aufgabe.md",
+      "processing_time": 6.5361573696136475,
+      "action": "copy",
+      "content_length": 6806,
+      "doc_id": 98
+    },
+    {
+      "filename": "PRIMER_AI_and_LLM_Developer.md",
+      "original_path": "..\\resources2\\PRIMER_AI_and_LLM_Developer.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "CLAUDE KONFIGURATION - IMPERATIV - AI and LLM Developer Primer",
+        "language": "de",
+        "topics": [
+          "AI Development",
+          "LLM Configuration",
+          "Claude AI",
+          "Software Development Workflows",
+          "Quality Assurance",
+          "Technical Documentation"
+        ],
+        "summary": "Ein umfassendes Konfigurationsdokument für Claude AI, das die primäre Rolle als Senior LLM/MCP-Entwickler bei Anthropic definiert. Das Dokument legt verbindliche Anweisungen für Kommunikationsstil, Qualitätsstandards, Workflow-Automatisierung und kritische Sicherheitsrichtlinien fest.",
+        "keywords": [
+          "Claude",
+          "LLM",
+          "MCP",
+          "Anthropic",
+          "AI Development",
+          "Quality Standards",
+          "Workflow Automation",
+          "Code Quality",
+          "Security Best Practices",
+          "German-English Communication",
+          "Technical Writing",
+          "Debugging",
+          "Git",
+          "Session Management"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\AI Development\\PRIMER_AI_and_LLM_Developer.md",
+      "processing_time": 6.456351041793823,
+      "action": "copy",
+      "content_length": 10833,
+      "doc_id": 99
+    },
+    {
+      "filename": "primer_rolle.md",
+      "original_path": "..\\resources2\\primer_rolle.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "IT-Projektmanager Rolle für Atlassian Low-Code/No-Code Lösungen",
+        "language": "de",
+        "topics": [
+          "IT-Projektmanagement",
+          "Low-Code/No-Code",
+          "Atlassian",
+          "ConfiForms",
+          "Confluence",
+          "Jira"
+        ],
+        "summary": "Definition einer Expertenrolle für einen IT-Projektmanager mit Spezialisierung auf Low-Code/No-Code-Lösungen im Atlassian-Umfeld. Der Fokus liegt auf Confluence, Jira und speziell auf ConfiForms-Makros und -Plugins.",
+        "keywords": [
+          "IT-Projektmanager",
+          "Low-Code",
+          "No-Code",
+          "Atlassian",
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "Makros",
+          "Plugins",
+          "Best Practices"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\IT-Projektmanagement\\primer_rolle.md",
+      "processing_time": 4.888439893722534,
+      "action": "copy",
+      "content_length": 847,
+      "doc_id": 100
+    },
+    {
+      "filename": "PRIMER_Template_codezentric.md",
+      "original_path": "..\\resources2\\PRIMER_Template_codezentric.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "PRIMER Template codezentric - Konfigurationsvorlage für KI-Assistenten",
+        "language": "de",
+        "topics": [
+          "KI-Konfiguration",
+          "Entwicklungsstandards",
+          "Code-Konventionen",
+          "Workflow-Automation",
+          "Softwareentwicklung"
+        ],
+        "summary": "Ein umfassendes Konfigurationstemplate für KI-Entwicklungsassistenten von codezentric. Das Dokument definiert verbindliche Regeln für Persönlichkeit, Arbeitsabläufe, Code-Standards, Testing und Deployment-Prozesse in der Softwareentwicklung.",
+        "keywords": [
+          "PRIMER",
+          "codezentric",
+          "Konfiguration",
+          "Full-Stack Developer",
+          "Workflow Automation",
+          "Code Standards",
+          "Testing",
+          "Qualitätssicherung",
+          "Git",
+          "Deployment",
+          "Debugging",
+          "Security",
+          "npm",
+          "JavaScript",
+          "React",
+          "Node.js",
+          "VSCode"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\KI-Konfiguration\\PRIMER_Template_codezentric.md",
+      "processing_time": 5.963288307189941,
+      "action": "copy",
+      "content_length": 6146,
+      "doc_id": 101
+    },
+    {
+      "filename": "Projekt-Deliverables_Confiforms_Epic_Creator.md",
+      "original_path": "..\\resources2\\Projekt-Deliverables_Confiforms_Epic_Creator.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Projekt-Deliverables: Confiforms Epic Creator",
+        "language": "de",
+        "topics": [
+          "Projektmanagement",
+          "Softwareentwicklung",
+          "Confluence",
+          "Jira Integration",
+          "Automatisierung",
+          "API Integration"
+        ],
+        "summary": "Dokumentation eines abgeschlossenen Projekts zur Entwicklung eines Confiforms-Makros für die automatisierte Erstellung von Jira-Epics. Das Projekt umfasst 12 Deliverables including Dokumentation, Test-Tools, UI-Komponenten und Implementierungsanleitungen für die Integration zwischen Confluence und Jira JIRAPRO24.",
+        "keywords": [
+          "Confiforms",
+          "Jira Epic",
+          "Confluence Makro",
+          "API Integration",
+          "JIRAPRO24",
+          "REST API",
+          "JSON Validation",
+          "UI Design",
+          "Deployment",
+          "Automatisierung",
+          "Test-Tools",
+          "Application Link"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Projektmanagement\\Projekt-Deliverables_Confiforms_Epic_Creator.md",
+      "processing_time": 5.489530801773071,
+      "action": "copy",
+      "content_length": 6953,
+      "doc_id": 102
+    },
+    {
+      "filename": "Projekt-Deliverables_Erweiterte_ConfiForms_Epic_Creator-Lösung.md",
+      "original_path": "..\\resources2\\Projekt-Deliverables_Erweiterte_ConfiForms_Epic_Creator-Lösung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Projekt-Deliverables: Erweiterte ConfiForms Epic Creator-Lösung",
+        "language": "de",
+        "topics": [
+          "Software-Entwicklung",
+          "Projektmanagement",
+          "ConfiForms",
+          "Jira Integration",
+          "Confluence",
+          "Automatisierung"
+        ],
+        "summary": "Dokumentation einer erweiterten ConfiForms Epic Creator-Lösung mit bidirektionaler Datenverknüpfung zwischen ConfiForms und Jira. Die Lösung erweitert die ursprüngliche Epic-Erstellung um automatische Jira-Key-Rückspeicherung, erweiterte Benutzeroberfläche und umfassende IFTTT-Integration für enterprise-taugliche Automatisierung.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Epic Creator",
+          "bidirektionale Verknüpfung",
+          "IFTTT",
+          "Confluence",
+          "Automatisierung",
+          "Workflow",
+          "API Integration",
+          "JavaScript",
+          "CSS",
+          "Testing",
+          "Performance",
+          "UI/UX",
+          "Dokumentation",
+          "Rollout-Strategie",
+          "Enterprise",
+          "Skalierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Entwicklung\\Projekt-Deliverables_Erweiterte_ConfiForms_Epic_Creator-Lösung.md",
+      "processing_time": 5.886884927749634,
+      "action": "copy",
+      "content_length": 8010,
+      "doc_id": 103
+    },
+    {
+      "filename": "Prompt_Engineering_Taktiken_Strategien.md",
+      "original_path": "..\\resources2\\Prompt_Engineering_Taktiken_Strategien.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Prompt Engineering: Taktiken & Strategien",
+        "language": "de",
+        "topics": [
+          "Prompt Engineering",
+          "Künstliche Intelligenz",
+          "AI-Modelle",
+          "Kommunikationsstrategien",
+          "Anweisungsoptimierung"
+        ],
+        "summary": "Ein umfassender Leitfaden zu bewährten Methoden des Prompt Engineering, der fünf Hauptstrategien zur effektiveren Nutzung von KI-Modellen präsentiert. Die Strategien umfassen klare Anweisungen, Aufgabenzerlegung, schrittweise Zusammenfassung, Zeit zum 'Nachdenken' und die Nutzung externer Tools.",
+        "keywords": [
+          "Prompt Engineering",
+          "KI-Modelle",
+          "Systemnachricht",
+          "Trennzeichen",
+          "Schritt-für-Schritt-Anweisungen",
+          "Beispiele",
+          "Aufgabenzerlegung",
+          "Klassifizierung",
+          "Kontextlänge",
+          "Zusammenfassung",
+          "externe Tools",
+          "Python-Code",
+          "Chat Completions API",
+          "Funktionsaufrufe"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Prompt Engineering\\Prompt_Engineering_Taktiken_Strategien.md",
+      "processing_time": 6.354295969009399,
+      "action": "copy",
+      "content_length": 6699,
+      "doc_id": 104
+    },
+    {
+      "filename": "prompter.md",
+      "original_path": "..\\resources2\\prompter.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Prompt Engineering: Taktiken & Strategien",
+        "language": "de",
+        "topics": [
+          "Prompt Engineering",
+          "Künstliche Intelligenz",
+          "Dokumentation",
+          "Leitfaden",
+          "Best Practices"
+        ],
+        "summary": "Ein umfassender Leitfaden für effektives Prompt Engineering mit KI-Modellen. Das Dokument präsentiert fünf Hauptstrategien mit konkreten Taktiken, um präzisere und relevantere Antworten von AI-Systemen zu erhalten, einschließlich klarer Anweisungen, Aufgabenteilung und dem Einsatz externer Tools.",
+        "keywords": [
+          "Prompt Engineering",
+          "KI-Modelle",
+          "Anweisungen",
+          "Persona",
+          "Trennzeichen",
+          "Few-Shot Prompting",
+          "Intent Classification",
+          "Code-Ausführung",
+          "Zusammenfassung",
+          "Strategien",
+          "Taktiken",
+          "Delimiters",
+          "API",
+          "Funktionsaufrufe"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Prompt Engineering\\prompter.md",
+      "processing_time": 5.533905744552612,
+      "action": "copy",
+      "content_length": 15309,
+      "doc_id": 105
+    },
+    {
+      "filename": "Qualitäts-_und_Sorgfalts-Prompt.md",
+      "original_path": "..\\resources2\\Qualitäts-_und_Sorgfalts-Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Qualitäts- und Sorgfalts-Prompt",
+        "language": "de",
+        "topics": [
+          "Qualitätssicherung",
+          "Prompt Engineering",
+          "KI-Anweisungen",
+          "Sorgfalt",
+          "Verantwortung"
+        ],
+        "summary": "Ein Prompt, der KI-Systeme zu höchster Sorgfalt und Qualität bei der Bearbeitung von Aufgaben anhält, mit besonderem Fokus auf kritische Situationen. Das Dokument betont die Wichtigkeit von Selbstreflexion, schrittweiser Dokumentation und proaktiver Informationsbeschaffung für optimale Ergebnisse.",
+        "keywords": [
+          "bestmögliches Ergebnis",
+          "Qualität",
+          "Sorgfalt",
+          "selbstkritisch",
+          "Gedankengang",
+          "Fehlerquellen",
+          "Wissenslücken",
+          "Verantwortung",
+          "Präzision",
+          "Exzellenz"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Qualitätssicherung\\Qualitäts-_und_Sorgfalts-Prompt.md",
+      "processing_time": 5.290813684463501,
+      "action": "copy",
+      "content_length": 2168,
+      "doc_id": 106
+    },
+    {
+      "filename": "reprompt_Aufgabe.md",
+      "original_path": "..\\resources2\\reprompt_Aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Firefox-Plugin Entwicklung für Model Context Protocol (MCP) AI-Integration",
+        "language": "de",
+        "topics": [
+          "Firefox Plugin Entwicklung",
+          "Model Context Protocol (MCP)",
+          "AI-Plattform Integration",
+          "WebExtensions API",
+          "Client-Server Architektur"
+        ],
+        "summary": "Aufgabenbeschreibung für die Entwicklung eines Firefox-Plugins zur Integration von Model Context Protocol (MCP) Tools mit verschiedenen AI-Plattformen wie manus.im, perplexity.ai, gemini.google.co, chatgpt.ai und claude.ai. Das Plugin soll eine standardisierte Schnittstelle bereitstellen, MCP-Server erkennen und verwalten, sowie eine Benutzeroberfläche für die Verknüpfung von MCP-Tools mit AI-Plattformen bieten.",
+        "keywords": [
+          "Firefox Plugin",
+          "Model Context Protocol",
+          "MCP",
+          "AI-Plattformen",
+          "WebExtensions API",
+          "Manifest V2",
+          "Client-Server Architektur",
+          "Tokenverwaltung",
+          "Authentifizierung",
+          "Sicherheitsmaßnahmen",
+          "JavaScript",
+          "Unit Tests",
+          "Integration Tests"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Firefox Plugin Entwicklung\\reprompt_Aufgabe.md",
+      "processing_time": 5.675058364868164,
+      "action": "copy",
+      "content_length": 8077,
+      "doc_id": 107
+    },
+    {
+      "filename": "Schritt-für-Schritt_Implementierungsanleitung.md",
+      "original_path": "..\\resources2\\Schritt-für-Schritt_Implementierungsanleitung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Schritt-für-Schritt Implementierungsanleitung - Confiforms-Makro für Jira-Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Software-Implementierung",
+          "Confluence-Konfiguration",
+          "Jira-Integration",
+          "Workflow-Automatisierung",
+          "Technische Dokumentation"
+        ],
+        "summary": "Diese technische Anleitung beschreibt die schrittweise Implementierung eines Confiforms-Makros in Confluence zur automatisierten Erstellung von Jira-Epics. Die Dokumentation umfasst 11 detaillierte Implementierungsschritte, von der Seitenerstellung bis zur Fehlerbehebung, sowie Konfigurationsdetails für Formulare, Field Definitions und IFTTT-Aktionen.",
+        "keywords": [
+          "Confiforms",
+          "Confluence",
+          "Jira",
+          "Epic-Erstellung",
+          "Makro-Konfiguration",
+          "IFTTT",
+          "Application Link",
+          "Field Definition",
+          "ListView",
+          "Registration Control",
+          "JSON-Konfiguration",
+          "Automatisierung",
+          "Workflow",
+          "JIRAPRO24"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Implementierung\\Schritt-für-Schritt_Implementierungsanleitung.md",
+      "processing_time": 5.80693793296814,
+      "action": "copy",
+      "content_length": 9446,
+      "doc_id": 108
+    },
+    {
+      "filename": "Sprache_und_Ausdrucks_Prompt.md",
+      "original_path": "..\\resources2\\Sprache_und_Ausdrucks_Prompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Sprache und Ausdrucks Prompt - Kommunikationsrichtlinien",
+        "language": "de",
+        "topics": [
+          "Kommunikationsrichtlinien",
+          "Sprachverwendung",
+          "Fachterminologie",
+          "Dokumentationsstandards"
+        ],
+        "summary": "Das Dokument definiert Kommunikationsrichtlinien für die Verwendung von Deutsch als Hauptsprache mit strategischem Einsatz englischer Fachbegriffe. Es legt Standards für präzise, sachliche und strukturierte Antworten fest, die fachlich korrekt aber verständlich sein sollen.",
+        "keywords": [
+          "Deutsch",
+          "Englisch",
+          "Fachbegriffe",
+          "Terminologie",
+          "Kommunikation",
+          "Verständlichkeit",
+          "Präzision",
+          "Strukturierung",
+          "Übersetzung",
+          "Beispiele"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Kommunikationsrichtlinien\\Sprache_und_Ausdrucks_Prompt.md",
+      "processing_time": 6.055995464324951,
+      "action": "copy",
+      "content_length": 1747,
+      "doc_id": 109
+    },
+    {
+      "filename": "system-prompter.md",
+      "original_path": "..\\resources2\\system-prompter.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "System Prompt für Low-Code Atlassian Entwickler",
+        "language": "en",
+        "topics": [
+          "System Prompts",
+          "Low-Code Development",
+          "Atlassian Tools",
+          "Confluence",
+          "Jira",
+          "Enterprise Integration",
+          "Automation"
+        ],
+        "summary": "Ein detaillierter System-Prompt für einen KI-Assistenten, der als Experte für Low-Code-Entwicklung mit Atlassian-Tools (Confluence & Jira) agiert. Der Prompt definiert Anweisungen, Denkprozesse und Best Practices für die Entwicklung skalierbarer Enterprise-Lösungen mit nativen Funktionen und Plugins wie ConfiForms.",
+        "keywords": [
+          "system_prompt",
+          "low-code",
+          "Atlassian",
+          "Confluence",
+          "Jira",
+          "automation",
+          "ConfiForms",
+          "enterprise integration",
+          "ScriptRunner",
+          "chain of thoughts",
+          "JQL",
+          "macros",
+          "REST API",
+          "datacenter",
+          "scalability",
+          "governance"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\System Prompts\\system-prompter.md",
+      "processing_time": 7.642370700836182,
+      "action": "copy",
+      "content_length": 7124,
+      "doc_id": 110
+    },
+    {
+      "filename": "systemprompt.md",
+      "original_path": "..\\resources2\\systemprompt.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Systemprompt für optimale KI-Antworten",
+        "language": "de",
+        "topics": [
+          "KI-Prompting",
+          "Systemanweisungen",
+          "Qualitätssicherung",
+          "Verantwortungsvolle KI",
+          "Arbeitsablauf-Optimierung"
+        ],
+        "summary": "Ein Systemprompt, der KI-Assistenten anweist, stets bestmögliche Ergebnisse anzustreben, da die Qualität in kritischen Situationen Menschenleben beeinflussen kann. Der Prompt definiert einen strukturierten Arbeitsablauf mit sorgfältiger Analyse, proaktiver Informationsbeschaffung und selbstkritischer Überprüfung vor der Lösungserstellung.",
+        "keywords": [
+          "Systemprompt",
+          "bestmögliches Ergebnis",
+          "Qualitätssicherung",
+          "selbstkritische Überprüfung",
+          "Informationslücken",
+          "Verantwortung",
+          "Sorgfalt",
+          "Präzision",
+          "strukturierter Arbeitsablauf",
+          "proaktive Informationsbeschaffung",
+          "Exzellenz"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\KI-Prompting\\systemprompt.md",
+      "processing_time": 6.3468663692474365,
+      "action": "copy",
+      "content_length": 4148,
+      "doc_id": 111
+    },
+    {
+      "filename": "task_confiforms_08.10.2025.md",
+      "original_path": "..\\resources2\\task_confiforms_08.10.2025.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms Macro für automatisierte Jira Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Confluence",
+          "Jira",
+          "Confiforms",
+          "Makro-Entwicklung",
+          "Epic-Erstellung",
+          "Integration"
+        ],
+        "summary": "Technische Spezifikation für die Entwicklung eines Confiforms-Makros, das Benutzern ermöglicht, Jira Epic-Tickets direkt aus Confluence heraus zu erstellen. Das Dokument definiert detaillierte Anforderungen für Felder, Authentifizierung, Fehlerbehandlung und Benutzerinteraktion für das Projekt BWPTLS24.",
+        "keywords": [
+          "Confiforms",
+          "Jira Epic",
+          "Confluence Makro",
+          "API Token",
+          "BWPTLS24",
+          "Vertuna",
+          "IFTTT Integration Rules",
+          "customfields",
+          "Ticket-Erstellung",
+          "Benutzervalidierung",
+          "Data Center"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Confluence\\task_confiforms_08.10.2025.md",
+      "processing_time": 6.013983249664307,
+      "action": "copy",
+      "content_length": 7211,
+      "doc_id": 112
+    },
+    {
+      "filename": "Technical_Functional_and_Legal_Restrictions.md",
+      "original_path": "..\\resources2\\Technical_Functional_and_Legal_Restrictions.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Technical, Functional, and Legal Restrictions for the Prototype",
+        "language": "en",
+        "topics": [
+          "Technical Requirements",
+          "System Limitations",
+          "Confluence Configuration",
+          "Jira Integration",
+          "Prototype Development"
+        ],
+        "summary": "This document outlines technical, functional, and legal restrictions for a prototype development project involving Confluence (v9.2.4), Jira (v10.3.6), and ConfiForms (v3.17.7). It specifies limitations such as no admin rights, restricted access to certain features, and requirements for Epic creation in the BWPTLS24 project with specific field mappings and user notifications.",
+        "keywords": [
+          "Confluence",
+          "Jira",
+          "ConfiForms",
+          "prototype",
+          "admin rights",
+          "Epic creation",
+          "BWPTLS24",
+          "Storage Format Editor",
+          "field mapping",
+          "system restrictions",
+          "version compatibility"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\Technical Requirements\\Technical_Functional_and_Legal_Restrictions.md",
+      "processing_time": 4.7912437915802,
+      "action": "copy",
+      "content_length": 2894,
+      "doc_id": 113
+    },
+    {
+      "filename": "Technische_Analyse_Jira-Listen-Integration_in_ConfiForms.md",
+      "original_path": "..\\resources2\\Technische_Analyse_Jira-Listen-Integration_in_ConfiForms.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Technische Analyse: Jira-Listen-Integration in ConfiForms",
+        "language": "de",
+        "topics": [
+          "Jira Integration",
+          "ConfiForms",
+          "Technische Dokumentation",
+          "Software-Integration",
+          "API-Integration",
+          "Confluence"
+        ],
+        "summary": "Umfassende technische Analyse verschiedener Ansätze zur Integration von Jira-Listen (Components, Fix Versions) in ConfiForms-Dropdown-Felder. Das Dokument evaluiert drei Hauptmethoden: Jira Select Field, Webservice-basierte Integration und Createmeta API-Integration, mit detaillierter Bewertung von Komplexität, Performance und Sicherheitsaspekten.",
+        "keywords": [
+          "Jira Select Field",
+          "ConfiForms",
+          "REST API",
+          "Application Link",
+          "Components",
+          "Fix Versions",
+          "Epic Creator",
+          "JIRAPRO24",
+          "Webservice Integration",
+          "Createmeta API",
+          "Confluence",
+          "JSON",
+          "IFTTT",
+          "Dropdown-Felder",
+          "Bidirektionale Datenverknüpfung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Jira Integration\\Technische_Analyse_Jira-Listen-Integration_in_ConfiForms.md",
+      "processing_time": 5.983919382095337,
+      "action": "copy",
+      "content_length": 16715,
+      "doc_id": 114
+    },
+    {
+      "filename": "template_CLAUDE.md",
+      "original_path": "..\\resources2\\template_CLAUDE.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "CLAUDE KONFIGURATION - IMPERATIV",
+        "language": "de",
+        "topics": [
+          "AI Assistant Configuration",
+          "Software Development Standards",
+          "Code Quality",
+          "Project Management",
+          "Documentation Template"
+        ],
+        "summary": "Ein umfassendes Konfigurationstemplate für Claude AI Assistant, das verbindliche Anweisungen für Rolle, Verhalten, Workflows, Code-Standards und Qualitätssicherung definiert. Das Template strukturiert Arbeitsabläufe für verschiedene Entwicklungsszenarien und legt kritische Sicherheits- und Qualitätsrichtlinien fest.",
+        "keywords": [
+          "Claude",
+          "AI Configuration",
+          "Development Workflow",
+          "Code Standards",
+          "Testing",
+          "Quality Assurance",
+          "Git",
+          "Security",
+          "Documentation",
+          "Template",
+          "Automation",
+          "Debugging",
+          "Deployment"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\AI Assistant Configuration\\template_CLAUDE.md",
+      "processing_time": 6.516493558883667,
+      "action": "copy",
+      "content_length": 6106,
+      "doc_id": 115
+    },
+    {
+      "filename": "Test-_und_Validierungsplan_für_Confiforms_Epic_Creator.md",
+      "original_path": "..\\resources2\\Test-_und_Validierungsplan_für_Confiforms_Epic_Creator.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Test- und Validierungsplan für Confiforms Epic Creator",
+        "language": "de",
+        "topics": [
+          "Software-Testing",
+          "Confluence",
+          "Jira",
+          "Confiforms",
+          "Qualitätssicherung",
+          "Integration Testing"
+        ],
+        "summary": "Ein umfassender Test- und Validierungsplan für ein Confiforms-Makro zur automatisierten Jira-Epic-Erstellung. Das Dokument beschreibt systematische Testverfahren in verschiedenen Kategorien wie Funktionalität, Integration, Benutzeroberfläche, Performance und Sicherheit. Es definiert Akzeptanzkriterien, Risikominimierung und stellt sicher, dass das Makro robust in der Produktionsumgebung funktioniert.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Confluence",
+          "Epic Creator",
+          "Testplan",
+          "Validierung",
+          "Application Link",
+          "JIRAPRO24",
+          "IFTTT",
+          "Custom Field",
+          "Performance Testing",
+          "Integration Testing",
+          "Usability Testing",
+          "Security Testing",
+          "Akzeptanzkriterien"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software-Testing\\Test-_und_Validierungsplan_für_Confiforms_Epic_Creator.md",
+      "processing_time": 7.117649078369141,
+      "action": "copy",
+      "content_length": 9633,
+      "doc_id": 116
+    },
+    {
+      "filename": "Test-Ergebnisse_Confiforms_Epic_Creator.md",
+      "original_path": "..\\resources2\\Test-Ergebnisse_Confiforms_Epic_Creator.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Test-Ergebnisse: Confiforms Epic Creator",
+        "language": "de",
+        "topics": [
+          "Software Testing",
+          "Confiforms",
+          "Jira Integration",
+          "Epic Creator",
+          "Quality Assurance",
+          "Deployment"
+        ],
+        "summary": "Dokumentation der Testergebnisse für das Confiforms Epic Creator Makro, welches alle kritischen Tests erfolgreich bestanden hat. Das Makro ermöglicht die automatisierte Erstellung von Jira-Epics über Confluence und ist nach erfolgreicher Validierung von JSON-Struktur, UI-Komponenten, CSS-Styling und technischen Aspekten bereit für den Produktionseinsatz.",
+        "keywords": [
+          "Confiforms",
+          "Epic Creator",
+          "Jira",
+          "JSON-Validierung",
+          "UI-Test",
+          "CSS-Styling",
+          "Application Link",
+          "Custom Fields",
+          "IFTTT Integration",
+          "Produktionsbereitschaft",
+          "Quality Assurance",
+          "Deployment",
+          "Benutzeroberfläche",
+          "API Testing"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software Testing\\Test-Ergebnisse_Confiforms_Epic_Creator.md",
+      "processing_time": 6.105206727981567,
+      "action": "copy",
+      "content_length": 5276,
+      "doc_id": 117
+    },
+    {
+      "filename": "Testing_und_Validierung_der_erweiterten_Lösung.md",
+      "original_path": "..\\resources2\\Testing_und_Validierung_der_erweiterten_Lösung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Testing und Validierung der erweiterten Lösung",
+        "language": "de",
+        "topics": [
+          "Software Testing",
+          "Test Automation",
+          "Quality Assurance",
+          "ConfiForms",
+          "Jira Integration",
+          "Performance Testing",
+          "UI Testing"
+        ],
+        "summary": "Umfassende Dokumentation einer Test-Strategie für eine erweiterte Epic-Creator-Lösung mit bidirektionaler Datenverknüpfung zwischen ConfiForms und Jira. Das Dokument beschreibt verschiedene Testtypen wie Funktionalitäts-, Integrations-, Performance- und UI-Tests sowie automatisierte Test-Suites mit Python-Skripten.",
+        "keywords": [
+          "Epic-Creator",
+          "ConfiForms",
+          "Jira",
+          "IFTTT",
+          "bidirektionale Verknüpfung",
+          "Funktionalitätstests",
+          "Integrationstests",
+          "Performance-Tests",
+          "UI-Tests",
+          "Selenium",
+          "Test-Automation",
+          "Python",
+          "Load-Testing",
+          "Datenintegrität",
+          "API-Integration",
+          "Test-Strategie"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Software Testing\\Testing_und_Validierung_der_erweiterten_Lösung.md",
+      "processing_time": 6.640828847885132,
+      "action": "copy",
+      "content_length": 24985,
+      "doc_id": 118
+    },
+    {
+      "filename": "todo.md",
+      "original_path": "..\\resources2\\todo.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Confiforms-Makro für Jira-Epic-Erstellung - Todo Liste",
+        "language": "de",
+        "topics": [
+          "Projektmanagement",
+          "Software-Entwicklung",
+          "Atlassian-Integration",
+          "Automatisierung"
+        ],
+        "summary": "Eine Todo-Liste für ein Projekt zur Entwicklung eines Confiforms-Makros, das die automatisierte Erstellung von Jira Epics ermöglicht. Das Projekt ist in 6 Phasen gegliedert und umfasst Recherche, Entwicklung, API-Integration, UI-Design, Testing und Dokumentation. Alle Aufgaben sind als abgeschlossen markiert.",
+        "keywords": [
+          "Confiforms",
+          "Jira",
+          "Epic-Erstellung",
+          "REST API",
+          "Confluence",
+          "Makro",
+          "IFTTT",
+          "Automatisierung",
+          "Integration",
+          "API-Token",
+          "Projektmanagement"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Projektmanagement\\todo.md",
+      "processing_time": 5.154770374298096,
+      "action": "copy",
+      "content_length": 2283,
+      "doc_id": 119
+    },
+    {
+      "filename": "transscript.md",
+      "original_path": "..\\resources2\\transscript.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "AI Penetration Testing and Prompt Injection Methodology",
+        "language": "en",
+        "topics": [
+          "AI penetration testing",
+          "prompt injection",
+          "AI security",
+          "red teaming",
+          "cybersecurity",
+          "LLM vulnerabilities",
+          "AI guardrails",
+          "model context protocol (MCP)",
+          "agentic AI security"
+        ],
+        "summary": "This transcript documents a comprehensive discussion about AI penetration testing methodologies, covering the six-phase approach to testing AI-enabled applications including system inputs, ecosystem attacks, model testing, prompt engineering attacks, data attacks, and application layer vulnerabilities. The conversation explores prompt injection techniques, security guardrails, real-world case studies, and the evolving landscape of AI security testing with practical examples and tools.",
+        "keywords": [
+          "AI pentest",
+          "prompt injection",
+          "jailbreak",
+          "guardrails",
+          "classifiers",
+          "system prompts",
+          "RAG",
+          "MCP",
+          "agent security",
+          "business logic attacks",
+          "evasion techniques",
+          "taxonomy",
+          "vulnerability assessment",
+          "LLM security",
+          "AI red teaming",
+          "enterprise AI",
+          "security methodology"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\AI penetration testing\\transscript.md",
+      "processing_time": 7.577572345733643,
+      "action": "copy",
+      "content_length": 74030,
+      "doc_id": 120
+    },
+    {
+      "filename": "Troubleshooting-Guide_ConfiForms_Epic-Erstellung.md",
+      "original_path": "..\\resources2\\Troubleshooting-Guide_ConfiForms_Epic-Erstellung.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Troubleshooting-Guide: ConfiForms Epic-Erstellung",
+        "language": "de",
+        "topics": [
+          "Troubleshooting",
+          "ConfiForms",
+          "Epic-Erstellung",
+          "Jira-Integration",
+          "Confluence-Administration",
+          "System-Wartung"
+        ],
+        "summary": "Ein umfassender Leitfaden zur Diagnose und Behebung von Problemen bei der ConfiForms Epic-Erstellung in Confluence. Das Dokument behandelt häufige Fehlerquellen wie Application Link-Probleme, JSON-Mapping-Fehler und Custom Field-Probleme sowie entsprechende Lösungsansätze, Monitoring-Strategien und Notfall-Prozeduren.",
+        "keywords": [
+          "ConfiForms",
+          "Epic-Erstellung",
+          "Jira",
+          "Confluence",
+          "Application Link",
+          "JSON-Mapping",
+          "Custom Fields",
+          "IFTTT-Regel",
+          "Troubleshooting",
+          "Monitoring",
+          "Logging",
+          "Backup",
+          "Recovery",
+          "Performance-Probleme",
+          "REST API",
+          "Eskalation",
+          "Wartungsaufgaben"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\Troubleshooting\\Troubleshooting-Guide_ConfiForms_Epic-Erstellung.md",
+      "processing_time": 6.237189054489136,
+      "action": "copy",
+      "content_length": 7181,
+      "doc_id": 121
+    },
+    {
+      "filename": "tuning_buddy_aufgabe.md",
+      "original_path": "..\\resources2\\tuning_buddy_aufgabe.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Tuning Buddy Aufgabe - Betaflight 4.5 FPV Drone Tuning Guide",
+        "language": "en",
+        "topics": [
+          "FPV Drone Tuning",
+          "Betaflight Configuration",
+          "Flight Controller Setup",
+          "PID Tuning",
+          "Hardware Specifications"
+        ],
+        "summary": "A comprehensive guide for tuning FPV drones using Betaflight 4.5, focusing on collaborative approach to achieve optimal flight performance. The document outlines step-by-step hardware assessment requirements, safety protocols, and specific tuning methodologies from various expert sources including Chris Rosser, UAVTech, and PIDToolbox.",
+        "keywords": [
+          "Betaflight 4.5",
+          "FPV drone",
+          "PID tuning",
+          "Chris Rosser",
+          "UAVTech",
+          "PIDToolbox",
+          "Blackbox logging",
+          "ESC configuration",
+          "motor tuning",
+          "dynamic idle",
+          "propwash recovery",
+          "flight controller",
+          "safety protocols",
+          "hardware components",
+          "Bluejay ESC"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\en\\FPV Drone Tuning\\tuning_buddy_aufgabe.md",
+      "processing_time": 5.876973867416382,
+      "action": "copy",
+      "content_length": 3330,
+      "doc_id": 122
+    },
+    {
+      "filename": "UI-Anpassungen_für_erweiterte_Jira-Dropdown-Felder.md",
+      "original_path": "..\\resources2\\UI-Anpassungen_für_erweiterte_Jira-Dropdown-Felder.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "UI-Anpassungen für erweiterte Jira-Dropdown-Felder",
+        "language": "de",
+        "topics": [
+          "UI/UX Design",
+          "Jira Integration",
+          "Frontend Development",
+          "Responsive Design",
+          "Web Development"
+        ],
+        "summary": "Dieses Dokument beschreibt die UI-Anpassungen für ein erweitertes Epic Creator-Makro mit Jira-Dropdown-Feldern. Es umfasst moderne Design-Prinzipien, responsive Layouts, erweiterte Formular-Komponenten und Interaktivitätsfunktionen für eine professionelle Benutzeroberfläche. Die Implementierung folgt aktuellen Web-Standards und Best Practices für Accessibility und Performance.",
+        "keywords": [
+          "Jira",
+          "UI-Anpassungen",
+          "Dropdown-Felder",
+          "Epic Creator",
+          "Responsive Design",
+          "CSS",
+          "JavaScript",
+          "Multi-Select",
+          "Formular-Komponenten",
+          "Accessibility",
+          "Performance-Optimierung",
+          "Browser-Kompatibilität",
+          "Progressive Enhancement"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\UI-UX Design\\UI-Anpassungen_für_erweiterte_Jira-Dropdown-Felder.md",
+      "processing_time": 6.33221960067749,
+      "action": "copy",
+      "content_length": 14131,
+      "doc_id": 123
+    },
+    {
+      "filename": "Umfassende_Implementierungsanleitung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "original_path": "..\\resources2\\Umfassende_Implementierungsanleitung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "success": true,
+      "error": null,
+      "metadata": {
+        "title": "Umfassende Implementierungsanleitung: ConfiForms Epic Creator mit Jira-Dropdown-Integration",
+        "language": "de",
+        "topics": [
+          "ConfiForms",
+          "Jira-Integration",
+          "Confluence",
+          "Epic Creator",
+          "Projektmanagement",
+          "API-Integration",
+          "Atlassian",
+          "Implementierungsanleitung"
+        ],
+        "summary": "Eine detaillierte technische Anleitung zur Implementierung einer erweiterten ConfiForms Epic Creator-Lösung mit automatischer Jira-Dropdown-Integration für Components und Fix Versions. Das Dokument beschreibt verschiedene Integrationsmethoden, Konfigurationsschritte, Troubleshooting und Best Practices für eine vollständig integrierte Projektmanagement-Komponente zwischen Confluence und Jira.",
+        "keywords": [
+          "ConfiForms",
+          "Jira",
+          "Confluence",
+          "Epic Creator",
+          "Dropdown-Integration",
+          "REST API",
+          "Application Link",
+          "IFTTT-Regeln",
+          "Components",
+          "Fix Versions",
+          "Webservice",
+          "JSON Payload",
+          "OAuth",
+          "Projektmanagement",
+          "Atlassian",
+          "Implementierung",
+          "Integration",
+          "Troubleshooting",
+          "Performance-Optimierung"
+        ]
+      },
+      "organized_path": "..\\resources2_organized\\de\\ConfiForms\\Umfassende_Implementierungsanleitung_ConfiForms_Epic_Creator_mit_Jira-Dropdown-Integration.md",
+      "processing_time": 7.921072483062744,
+      "action": "copy",
+      "content_length": 45050,
+      "doc_id": 124
+    },
+    {
+      "filename": "Vereinfachte_Confiforms-Lösung_für_Jira-Epic-Erstellung.md",
+      "original_path": "..\\resources2\\Vereinfachte_Confiforms-Lösung_für_Jira-Epic-Erstellung.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqHRpgC6M3QpSyNnaC'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 40.77867841720581,
+      "action": "copy",
+      "content_length": 3457
+    },
+    {
+      "filename": "Verlauf_Promtingqueen_Gemini.md",
+      "original_path": "..\\resources2\\Verlauf_Promtingqueen_Gemini.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqKQsmxZxKJZR4CxvP'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.4813191890716553,
+      "action": "copy",
+      "content_length": 22628
+    },
+    {
+      "filename": "virtual_functions.md",
+      "original_path": "..\\resources2\\virtual_functions.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqMpjxoNnPTQm6apdc'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.473644495010376,
+      "action": "copy",
+      "content_length": 105102
+    },
+    {
+      "filename": "Wichtige_Links_ConfiForms.md",
+      "original_path": "..\\resources2\\Wichtige_Links_ConfiForms.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqPKmrRgfmUGLNntAR'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.3410511016845703,
+      "action": "copy",
+      "content_length": 1367
+    },
+    {
+      "filename": "zed-ai-providers-setup.md",
+      "original_path": "..\\resources2\\zed-ai-providers-setup.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqQoL6XQtFY6qiJc24'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.3512570858001709,
+      "action": "copy",
+      "content_length": 3912
+    },
+    {
+      "filename": "zed-installation-guide.md",
+      "original_path": "..\\resources2\\zed-installation-guide.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqSJ7hVhdh7kciJt26'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.381166934967041,
+      "action": "copy",
+      "content_length": 4105
+    },
+    {
+      "filename": "zed-settings.md",
+      "original_path": "..\\resources2\\zed-settings.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqTwqNXvKd6vAMwHWF'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.38344717025756836,
+      "action": "copy",
+      "content_length": 8301
+    },
+    {
+      "filename": "Zusammenfassung_der_Analyse-Ergebnisse.md",
+      "original_path": "..\\resources2\\Zusammenfassung_der_Analyse-Ergebnisse.md",
+      "success": false,
+      "error": "Document analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXjXqVbK12SfsTH2YEWpF'}",
+      "metadata": null,
+      "organized_path": null,
+      "processing_time": 0.45999956130981445,
+      "action": "copy",
+      "content_length": 5731
+    }
+  ],
+  "statistics": {
+    "total_files": 124,
+    "processed": 116,
+    "skipped": 0,
+    "failed": 8,
+    "by_language": {
+      "en": 21,
+      "de": 95
+    },
+    "by_topic": {
+      "prompt engineering": 1,
+      "Kommunikationsrichtlinien": 2,
+      "System Prompts": 5,
+      "AI system prompts": 1,
+      "AI prompt engineering": 1,
+      "IT-Projektmanagement": 2,
+      "Confluence": 10,
+      "Qualitätssicherung": 3,
+      "system prompts": 1,
+      "Prompt Engineering": 4,
+      "Oracle Database Administration": 1,
+      "AI-Entwicklung": 1,
+      "ConfiForms": 15,
+      "Aufgabenanalyse": 1,
+      "Requirements Engineering": 1,
+      "Zeiterfassung": 1,
+      "Dokumentenmanagement": 1,
+      "Confiforms": 7,
+      "Oracle DBA Training": 1,
+      "Benutzeranleitung": 1,
+      "ConfiForms-Optimierung": 1,
+      "Claude Code": 1,
+      "Software-Entwicklung": 3,
+      "Change Management": 2,
+      "IT-Administration": 1,
+      "Produktentwicklung": 1,
+      "KI-Konfiguration": 2,
+      "API Keys": 1,
+      "API": 1,
+      "Jira Integration": 4,
+      "Software-Konfiguration": 1,
+      "software licensing": 1,
+      "Confiforms-Integration": 1,
+      "Jira-Konfiguration": 3,
+      "Benutzeroberfläche": 1,
+      "Jira-Integration": 2,
+      "Software-Erweiterung": 1,
+      "JIRA Configuration": 2,
+      "Atlassian Confluence": 1,
+      "IFTTT-Integration": 1,
+      "Jira API": 1,
+      "Software-Integration": 1,
+      "JSON-Validierung": 1,
+      "Jira": 1,
+      "Firefox Plugin Entwicklung": 3,
+      "configuration": 1,
+      "Chrome-Erweiterung": 1,
+      "dependency management": 1,
+      "package management": 1,
+      "AI Development": 1,
+      "Projektmanagement": 2,
+      "Software-Implementierung": 1,
+      "KI-Prompting": 1,
+      "Technical Requirements": 1,
+      "AI Assistant Configuration": 1,
+      "Software-Testing": 1,
+      "Software Testing": 2,
+      "AI penetration testing": 1,
+      "Troubleshooting": 1,
+      "FPV Drone Tuning": 1,
+      "UI-UX Design": 1
+    },
+    "avg_processing_time": 6.222077712930482
+  }
+}

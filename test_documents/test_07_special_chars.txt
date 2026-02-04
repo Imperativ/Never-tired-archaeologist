@@ -1,0 +1,13 @@
+Unicode Test Document 🚀
+
+This document contains special characters:
+• Bullet points
+→ Arrows
+© Copyright symbols
+€ Currency symbols
+α β γ Greek letters
+中文 Chinese characters
+العربية Arabic text
+emoji: 😀 🎉 ✅ ⚠️ 🔧
+
+Mathematical notation: ∑ ∫ √ ∞ ≈ ≠

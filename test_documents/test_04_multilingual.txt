@@ -1,0 +1,9 @@
+Artificial Intelligence - L'Intelligence Artificielle - Künstliche Intelligenz
+
+English: AI is transforming industries worldwide through automation and data analysis.
+Français: L'IA transforme les industries du monde entier grâce à l'automatisation et à l'analyse des données.
+Deutsch: KI verändert Branchen weltweit durch Automatisierung und Datenanalyse.
+
+Key concepts: Machine Learning, Deep Learning, Neural Networks, NLP
+Concepts clés: Apprentissage automatique, Apprentissage profond, Réseaux de neurones, TAL
+Schlüsselkonzepte: Maschinelles Lernen, Deep Learning, Neuronale Netze, NLP
