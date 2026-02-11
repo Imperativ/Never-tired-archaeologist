@@ -1,0 +1,59 @@
+Ich möchte das Projekt "Never-tired-archaeologist" entwickeln. Es ist ein lokales Python-Tool zur semantischen Dokumentenanalyse. Bitte setze das Projekt Schritt für Schritt um.
+
+**Technische Rahmenbedingungen:**
+- Python 3.13
+- Hardware: Dell Laptop (CPU only), keine GPU-Beschleunigung (CUDA vermeiden).
+- Datenbank: SQLite (lokal).
+- Externe APIs: Nur Anthropic Claude (für Analyse).
+- Lokale Komponenten: `sentence-transformers` (für Embeddings) – MUSS CPU-freundlich sein.
+
+**Architektur & Libraries:**
+1.  **Datenhaltung:** SQLite3. Tabelle für Dokumente (ID, Content, Hash) und Metadaten (JSON). Embeddings sollen als BLOB oder JSON-Array gespeichert werden.
+2.  **Modelle:**
+    -   *Analyse:* `anthropic` Library (Modell: `claude-3-5-sonnet-latest` oder `claude-3-7-sonnet-latest` falls verfügbar). Nutze Structured Outputs via Pydantic.
+    -   *Embeddings:* `sentence_transformers` mit dem Modell `all-MiniLM-L6-v2` (klein, schnell, CPU-optimiert).
+3.  **Code-Struktur:** Modular (`src/database.py`, `src/llm.py`, `src/embedder.py`, `main.py`).
+
+**Aufgaben (führe diese nacheinander aus):**
+
+**Schritt 1: Projekt-Setup**
+- Erstelle eine virtuelle Umgebung (venv) und aktiviere sie (falls möglich) oder instruiere mich dazu.
+- Erstelle eine `requirements.txt` mit: `anthropic`, `pydantic`, `sentence-transformers`, `numpy`, `python-dotenv`.
+- Installiere die Abhängigkeiten.
+
+**Schritt 2: Datenmodell & Datenbank**
+- Erstelle `src/models.py`: Definiere ein Pydantic-Modell `DocumentMetadata` mit den Feldern:
+    - `title` (str)
+    - `language` (str, ISO code)
+    - `topics` (List[str])
+    - `summary` (str)
+    - `keywords` (List[str])
+- Erstelle `src/database.py`: Klasse `DocDatabase`.
+    - `init_db()`: Erstellt Tabellen, falls nicht existent.
+    - `add_document()`: Speichert Text, Metadaten und Embedding.
+    - `document_exists(hash)`: Prüft auf Duplikate basierend auf Content-Hash.
+
+**Schritt 3: Embedding Engine (Lokal)**
+- Erstelle `src/embedder.py`: Klasse `LocalEmbedder`.
+    - Nutze `SentenceTransformer('all-MiniLM-L6-v2')`.
+    - Implementiere eine Methode `generate_embedding(text) -> list[float]`.
+    - Achte darauf, dass das Modell nur einmal beim Start geladen wird (Singleton-Pattern oder Klassen-Attribut).
+
+**Schritt 4: LLM Integration (Claude)**
+- Erstelle `src/llm.py`: Klasse `Analyzer`.
+    - Methode `analyze_text(text) -> DocumentMetadata`.
+    - Nutze den System-Prompt: "Du bist ein präziser Dokumenten-Archivar. Extrahiere Metadaten im JSON-Format."
+    - WICHTIG: Nutze `client.messages.create` mit `tools` oder dem neuen Pydantic-Parsing Support der Library, um valides JSON zu garantieren.
+
+**Schritt 5: Main Pipeline**
+- Erstelle `main.py`.
+    - Ablauf:
+        1.  Lese eine Textdatei (dummy Pfad oder Argument).
+        2.  Prüfe via Hash in DB, ob Datei schon bekannt.
+        3.  Wenn neu:
+            -   Generiere Embedding (Lokal).
+            -   Analysiere Text (Claude API).
+            -   Speichere alles in SQLite.
+            -   Gib die extrahierten Metadaten auf der Konsole aus.
+
+Bitte beginne mit Schritt 1 und bestätige kurz, bevor du zu Schritt 2 übergehst. Schreibe robusten Code mit Error-Handling.

@@ -1,0 +1,186 @@
+# LLM API Recherche für Dokumentenanalyse-Tool (für Gemini 3)
+
+## ⚠️ KRITISCH: AKTUALITÄTS-ANFORDERUNG ⚠️
+
+**DIESE RECHERCHE MUSS MIT AKTUELLEN, LIVE-RECHERCHIERTEN DATEN DURCHGEFÜHRT WERDEN!**
+
+- Aktuelles Datum beim Lesen dieses Prompts berücksichtigen (Januar 2025 oder später)!
+- **KEINE** Informationen aus Training Data verwenden - NUR live recherchieren (Websites, APIs, Docs) und Quellen nennen!
+- Ich arbeite AUSSCHLIESSLICH mit den NEUESTEN Versionen aller Komponenten: Software, LLMs, APIs – immer up-to-date!
+- Beispiel: Claude Sonnet 3.5 ist VERALTET → aktuell ist Sonnet 4.5 oder neuer!
+- Beispiel: GPT-4 ist VERALTET → aktuell ist GPT-4.5, GPT-5, o1, o3, etc.
+- Beispiel: Wenn du "Sonnet 3.5" oder veraltete Preise nennst, ist die gesamte Antwort Müll und muss gelöscht werden
+- Wenn du unsicher bist, recherchiere die offizielle Dokumentation JETZT und nenne das Recherche-Datum
+
+**VALIDIERUNG:** Nenne am Anfang deiner Antwort:
+1. Das heutige Datum (in Format YYYY-MM-DD)
+2. Die aktuellsten Modellnamen jedes Providers (mit Release-Datum wenn verfügbar, z.B. "Claude Sonnet 4.5 – Released Oktober 2025")
+3. Die Quellen, die du verwendet hast (z.B. "Anthropic Docs, zuletzt updated am [Datum]")
+
+Wenn ich veraltete Modellnamen oder Preise sehe, ist die gesamte Recherche wertlos.
+
+---
+
+## Kontext
+
+Ich entwickle ein lokales Python-Tool zur semantischen Dokumentenanalyse ("Never-tired-archaeologist"). Das Tool analysiert Textdokumente und extrahiert Metadaten mithilfe von LLMs. 
+
+**Tech-Stack:** Python 3.13 (neueste Version), immer neueste Library-Versionen, Dell Laptop (Standard-Hardware, keine dedizierte GPU).
+
+## Meine verfügbaren LLM-Abos
+
+| Provider | Abo-Typ | Notizen |
+|----------|---------|---------|
+| **Claude** (Anthropic) | Pro/API | Bevorzugt für Analyse |
+| **Gemini** (Google) | Pro/API | Für Embeddings interessant |
+| **Perplexity** | Pro | Hat die Perplexity API Potenzial? |
+| ~~OpenAI~~ | ❌ NICHT MEHR | Zu viele Hallucinations, gekündigt |
+
+Ich bin flexibel bei Abos - kann monatlich wechseln falls etwas besser passt. Integriere zusätzlich das "Manus.im" Modell (recherchiere was das genau ist – Provider? LLM? API? Wie integriert man es? Passt es zu meinen Features?).
+
+---
+
+## Technische Anforderungen
+
+### Benötigte Features:
+
+1. **Textanalyse & Metadaten-Extraktion:**
+   - Sprache erkennen
+   - Topic/Thema identifizieren  
+   - Keywords extrahieren
+   - Zusammenfassung generieren
+   - Content-Klassifikation (Systemprompt? LLM-Output? Code? Dokumentation?)
+   - Zuordnung zu bekannten Projekten
+
+2. **Embedding-Generierung:**
+   - Für Duplikaterkennung via Cosine-Similarity
+   - Hohe Dimensionalität bevorzugt (1024-3072)
+   - Konsistente Vektorlänge
+   - Batch-fähig
+
+3. **Volltextsuche:**
+   - Spätere Integration in SQLite FTS5
+   - Oder: Vektor-basierte Semantic Search
+
+### Constraints:
+- Dell Laptop (keine dedizierte GPU)
+- Python 3.13
+- Moderate Kosten (kein Enterprise-Budget)
+- Offline-Fähigkeit wäre Bonus, aber nicht kritisch
+
+---
+
+## Recherche-Aufgaben
+
+### 1. Claude API (Anthropic) - AKTUELL RECHERCHIEREN!
+
+- **Aktuelle Modelle:** Welche sind JETZT verfügbar? (Opus 4? Sonnet 4.5? Haiku?)
+- Welches Modell für strukturierte Metadaten-Extraktion?
+- Kosten pro 1M Tokens (Input/Output) - AKTUELLE Preise!
+- Rate Limits (Requests/Minute, Tokens/Tag)?
+- **KRITISCH:** Hat Claude eigene Embedding-Modelle? (Stand heute!)
+- JSON-Mode / Structured Output / Tool Use?
+- Python SDK: `anthropic` - aktuelle Version und Features?
+
+### 2. Gemini API (Google) - AKTUELL RECHERCHIEREN!
+
+- **Aktuelle Modelle:** 2.0 Flash? 2.5 Pro? Experimentelle Modelle?
+- **Embedding-Modell:** Wie heißt es AKTUELL? (text-embedding-004? gecko? was ist neu?)
+  - Dimensionen?
+  - Kosten?
+  - Batch-Limits?
+- Kostenloses Tier: Exakte Limits (Requests/Tag, Tokens)?
+- Bezahltes Tier: Preise und Limits?
+- Python SDK: `google-generativeai` - aktuelle Version?
+- JSON-Mode Support?
+
+### 3. Perplexity API - AKTUELL RECHERCHIEREN!
+
+- **Hat Perplexity Pro eine nutzbare API für programmatischen Zugriff?**
+- Welche Modelle sind via API verfügbar?
+- Eignet sich Perplexity für:
+  - Textanalyse/Metadaten-Extraktion?
+  - Embedding-Generierung?
+- Kosten und Limits?
+- Python SDK vorhanden?
+- Vorteile gegenüber Claude/Gemini?
+
+### 4. Manus.im Modell - AKTUELL RECHERCHIEREN!
+
+- **Recherchiere was das genau ist!** (Provider? LLM? API? Website? Wie integriert man es?)
+- Aktuelle Modelle und Versionen
+- Passt es zu meinen Features (Analyse, Embeddings)?
+- Kosten, Limits, SDK?
+- Vorteile für meinen Use Case?
+- Hat es Abo-Modelle oder ist es Open-Source?
+
+### 5. Lokale Embedding-Alternativen (Falls APIs zu teuer/limitiert)
+
+- `sentence-transformers` - aktuelle empfohlene Modelle für CPU-only?
+- Performance auf Standard-Laptop?
+- Qualitätsvergleich zu Cloud-Embeddings?
+- Speicherbedarf?
+
+### 6. Weitere Provider (Optional)
+
+Falls es AKTUELL bessere Alternativen gibt, die ich übersehe:
+- DeepSeek API?
+- Mistral API?
+- Cohere (speziell für Embeddings)?
+- Andere?
+
+---
+
+## Erwartete Ausgabe
+
+### A) Validierung (PFLICHT)
+Recherche-Datum: [HEUTE in YYYY-MM-DD]
+Quellen: [Liste der verwendeten Dokumentationen/Websites mit Zugriffsdatum]
+
+Aktuelle Modellversionen:
+- Anthropic: [aktuellste Modelle mit Release-Datum]
+- Google: [aktuellste Modelle mit Release-Datum]  
+- Perplexity: [aktuellste Modelle mit Release-Datum]
+- Manus.im: [aktuellste Modelle mit Release-Datum]
+
+### B) Kostenvergleich-Tabelle
+
+Für 1000 Dokumente à ~2000 Tokens:
+
+| Strategie | Analyse-Modell | Embedding-Modell | Geschätzte Kosten | Rate Limits |
+|-----------|----------------|------------------|-------------------|-------------|
+| Claude + Gemini Embeddings | ? | ? | ? | ? |
+| Nur Gemini | ? | ? | ? | ? |
+| Perplexity (falls geeignet) | ? | ? | ? | ? |
+| Claude + Manus.im | ? | ? | ? | ? |
+| Claude + Lokale Embeddings | ? | sentence-transformers | ? | ? |
+
+### C) Konkrete Empfehlung
+
+Basierend auf meinen Constraints (vorhandene Abos, kein OpenAI, moderate Kosten):
+1. **Primäre Empfehlung:** [Provider + Modell + Begründung]
+2. **Fallback:** [Alternative]
+3. **Embedding-Strategie:** [Cloud vs. Lokal]
+
+### D) Code-Snippets (Aktuelle SDK-Versionen!)
+
+Kurze Python-Beispiele für:
+1. Claude API - strukturierter JSON-Output
+2. Gemini Embedding-Generierung
+3. Perplexity API (falls nutzbar)
+4. Manus.im Integration (falls zutreffend)
+
+---
+
+## Zusammenfassung der Anforderungen
+
+✅ NUR aktuelle, live-recherchierte Informationen
+✅ Neueste Modellversionen und SDK-Versionen
+✅ Konkrete Preise mit Datum
+✅ Praktische Empfehlung für meine Situation
+✅ Quellen angeben
+
+❌ KEINE veralteten Modellnamen (Sonnet 3.5, GPT-4, etc.)
+❌ KEINE Preise aus Training Data
+❌ KEINE Annahmen - nur verifizierte Fakten
+
